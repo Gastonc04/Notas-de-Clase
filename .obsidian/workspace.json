@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "331d618b7dffe92f",
+        "id": "5b07af8e2fa63e96",
         "type": "tabs",
         "children": [
           {
-            "id": "d6284ab382b6deef",
+            "id": "dd461d3fb852ee63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseño de Sistemas/Sin título.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de Sistemas/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de Sistemas/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño de Sistemas/Sin título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,16 +182,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6284ab382b6deef",
+  "active": "dd461d3fb852ee63",
   "lastOpenFiles": [
+    "Diseño de Sistemas/Resumen Parcial 2.md",
+    "Diseño de Sistemas/Resumen Parcial 1.md",
+    "Analisis Numérico/2-9 (Virtual).md",
+    "Analisis Numérico",
     "Backend/Resumen.md",
-    "Diseño de Sistemas/Sin título.md",
     "Economía/27-8.md",
     "Economía/20-8.md",
     "Pasted image 20260907225522.png",
     "Pasted image 20260907225520.png",
     "Economía.md",
-    "Sin nombre",
     "Economía",
     "Diseño de Sistemas",
     "Backend",
