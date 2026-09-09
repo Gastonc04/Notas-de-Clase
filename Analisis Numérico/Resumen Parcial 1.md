@@ -85,3 +85,5 @@ para una funcion de 3 terminos c1, c2, c3:
 *RESUMEN*
 ![[Pasted image 20260909165848.png]]
 
+#EcuacionesNoLineales
+
