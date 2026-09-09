@@ -62,3 +62,11 @@ se cancelan los valores positivos con los negativos. Hay que independizar. Asi e
 ![[Pasted image 20260909145924.png]]
 pero al derivar en los minimos, el valor absoluto impide el calculo.
 ![[Pasted image 20260909150711.png]]
+expresamos la funcion de aproximacion como sumatoria
+![[Pasted image 20260909152810.png]]
+
+Resultado -> Magnitud de error de esa funcion con los puntos datos
+La que mejor aproxima es la que tenga S: menor.
+
+Minimizacion del Funcional de Desviacion: Busco coeficientes c que minimicen el valor de S.
+Igualo derivadas parciales de S respecto a cada c, a cero.
