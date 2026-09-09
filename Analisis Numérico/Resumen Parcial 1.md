@@ -68,5 +68,11 @@ expresamos la funcion de aproximacion como sumatoria
 Resultado -> Magnitud de error de esa funcion con los puntos datos
 La que mejor aproxima es la que tenga S: menor.
 
-Minimizacion del Funcional de Desviacion: Busco coeficientes c que minimicen el valor de S.
-Igualo derivadas parciales de S respecto a cada c, a cero.
+Minimizacion del Funcional de Desviacion:
+- Busco coeficientes c que minimicen el valor de S.
+- Igualo derivadas parciales de S respecto a cada c, a cero.
+*VER DESARROLLO*
+![[Pasted image 20260909163506.png]]
+Si derivamos respecto de todos los coeficientes c se forma una SEL cuadrada, y si la resolvemos encontramos las incognitas c obteniendo la funcion de aproximacion.
+
+para una funcion de 3 terminos c1, c2, c3:
