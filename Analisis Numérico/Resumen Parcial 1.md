@@ -48,4 +48,7 @@ Tecnicas de pivoteo (Se busca el mayor valor absoluto para poner como pivot):
 -  Pivoteo total: Se busca en la matriz. Cambian filas/columnas (cambian incognitas).
 ![[Pasted image 20260909004947.png]]
 
-Aproximacion a una curva - Metodo de Minimos Cuadrados
+Aproximacion a una curva - Metodo de Minimos Cuadrados:
+- Dados un conjunto de pares ordenados (x,y) y una familia de funciones
+- Se intenta encontrar la funcion continua (de la familia de funciones) que mas se aproxime a los puntos datos, de acuerdo al criterio de minimo error cuadratico
+![[Pasted image 20260909145004.png]]
