@@ -48,4 +48,4 @@ Tecnicas de pivoteo (Se busca el mayor valor absoluto para poner como pivot):
 -  Pivoteo total: Se busca en la matriz. Cambian filas/columnas (cambian incognitas).
 ![[Pasted image 20260909004947.png]]
 
-Aproximacion de
+Aproximacion a una curva - Metodo de Minimos Cuadrados
