@@ -39,3 +39,9 @@ nota: para hacer 0. el que va a volver a 0 / el que se vuelve 0
 
 2) sustitucion inversa:
 ![[Pasted image 20260908233608.png]]
+
+elemento pivot aii: elemento de la diagonal principal
+
+Tecnicas de pivoteo:
+-  Pivoteo parcial
+-  Pivoteo total
