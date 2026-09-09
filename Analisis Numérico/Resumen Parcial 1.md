@@ -42,6 +42,10 @@ nota: para hacer 0. el que va a volver a 0 / el que se vuelve 0
 
 elemento pivot aii: elemento de la diagonal principal
 
-Tecnicas de pivoteo:
--  Pivoteo parcial
--  Pivoteo total
+Tecnicas de pivoteo (Se busca el mayor valor absoluto para poner como pivot):
+-  Pivoteo parcial: En la columna. Cambio de filas.
+![[Pasted image 20260909004938.png]]
+-  Pivoteo total: Se busca en la matriz. Cambian filas/columnas (cambian incognitas).
+![[Pasted image 20260909004947.png]]
+
+Aproximacion de
