@@ -1,3 +1,6 @@
+
+#MinimosCuadrados
+
 ecuacion lineal: polinomio 1er grado. (incognitas en distintos terminos elevadas a 1 y x una cte.)
 
 sistema de ecuaciones lineales: conjunto.
@@ -76,3 +79,9 @@ Minimizacion del Funcional de Desviacion:
 Si derivamos respecto de todos los coeficientes c se forma una SEL cuadrada, y si la resolvemos encontramos las incognitas c obteniendo la funcion de aproximacion.
 
 para una funcion de 3 terminos c1, c2, c3:
+![[Pasted image 20260909165345.png]]
+![[Pasted image 20260909165502.png]]
+
+*RESUMEN*
+![[Pasted image 20260909165848.png]]
+
