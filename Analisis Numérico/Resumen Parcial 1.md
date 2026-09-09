@@ -34,3 +34,8 @@ metodo de eliminacion de gauss*
 nota: para hacer 0. el que va a volver a 0 / el que se vuelve 0
 ![[Pasted image 20260908232414.png]]
 
+1) triangularizacion:
+![[Pasted image 20260908233342.png]]
+
+2) sustitucion inversa:
+![[Pasted image 20260908233608.png]]

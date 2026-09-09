@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -167,8 +166,19 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "e4eeb138c6bff1a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -189,6 +199,8 @@
   },
   "active": "dd461d3fb852ee63",
   "lastOpenFiles": [
+    "Pasted image 20260908233608.png",
+    "Pasted image 20260908233342.png",
     "Pasted image 20260908232414.png",
     "Pasted image 20260908225727.png",
     "Analisis Numérico/Resumen Parcial 1.md",
