@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MinimosCuadrados",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,13 +79,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -175,8 +173,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -199,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd461d3fb852ee63",
+  "active": "2622b9e77633641c",
   "lastOpenFiles": [
     "Pasted image 20260909165848.png",
     "Pasted image 20260909165502.png",

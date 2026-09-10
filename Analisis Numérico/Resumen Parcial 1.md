@@ -87,3 +87,4 @@ para una funcion de 3 terminos c1, c2, c3:
 
 #EcuacionesNoLineales
 
+hola
