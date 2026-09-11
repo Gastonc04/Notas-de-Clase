@@ -120,7 +120,7 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
 - pasamos de f(x)=0 a f1(x)=f2(x) y buscamos la interseccion siendo estas las raices de f(x)
 ![[Pasted image 20260911144005.png]]
 
-1) Proceso de MEJORAMIENTO
+1) Proceso de MEJORAMIENTO o PUNTO FIJO
 - Aproximaciones sucesivas: Mejores en cada paso.
   Reemplaza la funcion original f(x)=0 a x=G(x) tal que cualquier solucion de esta tambien lo sea de la original.
   ![[Pasted image 20260911144416.png]]
@@ -138,5 +138,26 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
   DESARROLLO
   ![[Pasted image 20260911154643.png]]
   ![[Pasted image 20260911154858.png]]
-  ![[Pasted image 20260911154922.png]]
+  2.![[Pasted image 20260911154922.png]]
+  El termino de la izquierda es $e_{k+1}$
   
+  Se desarrolla Taylor, se desprecia $(x_k - \varepsilon)^2$ ya que es insignificante al estar tan cerca xk de e.
+  $$G(x_k) = G(\varepsilon) + (x_k - \varepsilon) G'(\varepsilon) + \frac{(x_k - \varepsilon)^2}{2} G''(\varepsilon) + \dots$$
+  Reemplazando esa aproximación lineal de Taylor en la resta del paso 2:$$x_{k+1} - \varepsilon = \left[ G(\varepsilon) + (x_k - \varepsilon) G'(\varepsilon) \right] - G(\varepsilon)$$
+  Queda:
+  $$x_{k+1} - \varepsilon \approx (x_k - \varepsilon) G'(\varepsilon)$$
+  ![[Pasted image 20260911160936.png]]
+
+- Metodo de Newton Raphson: Mayor velocidad de convergencia.
+  Deduccion a partir de:
+  - Se deriva de la serrie de Taylor.
+  - Como un caso particular del punto fijo.
+
+    DESARROLLO SERIE DE TAYLOR
+    ![[Pasted image 20260911162630.png]]
+    ![[Pasted image 20260911162658.png|188]]
+    Cambiamos nombres X=Xk+1, a=Xk
+	![[Pasted image 20260911162812.png]]
+
+	DESARROLLO CASO PARTICULAR DE PUNTO FIJO
+	
