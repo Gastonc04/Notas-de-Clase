@@ -138,7 +138,9 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
   DESARROLLO
   ![[Pasted image 20260911154643.png]]
   ![[Pasted image 20260911154858.png]]
-  2.![[Pasted image 20260911154922.png]]
+  
+  2.
+  ![[Pasted image 20260911154922.png]]
   El termino de la izquierda es $e_{k+1}$
   
   Se desarrolla Taylor, se desprecia $(x_k - \varepsilon)^2$ ya que es insignificante al estar tan cerca xk de e.
@@ -146,7 +148,7 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
   Reemplazando esa aproximación lineal de Taylor en la resta del paso 2:$$x_{k+1} - \varepsilon = \left[ G(\varepsilon) + (x_k - \varepsilon) G'(\varepsilon) \right] - G(\varepsilon)$$
   Queda:
   $$x_{k+1} - \varepsilon \approx (x_k - \varepsilon) G'(\varepsilon)$$
-  ![[Pasted image 20260911160936.png]]
+  ![[Pasted image 20260911160936.png|572]]
 
 2) Metodo de Newton Raphson: Mayor velocidad de convergencia.
 	  Deduccion a partir de:
@@ -154,18 +156,40 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
 	  - Como un caso particular del punto fijo.
 
     DESARROLLO SERIE DE TAYLOR
-    ![[Pasted image 20260911162630.png]]
-    ![[Pasted image 20260911162658.png|188]]
+    ![[Pasted image 20260911162630.png|428]]
+    ![[Pasted image 20260911162658.png|119]]
     Cambiamos nombres X=Xk+1, a=Xk
-	![[Pasted image 20260911162812.png]]
+	![[Pasted image 20260911162812.png|544]]
 
 	DESARROLLO CASO PARTICULAR DE PUNTO FIJO
-	![[Pasted image 20260911165610.png]]
-	![[Pasted image 20260911170109.png]]
+	![[Pasted image 20260911165610.png|216]]
+	![[Pasted image 20260911170109.png|283]]
 	
 	Interpretacion grafica
-	![[Pasted image 20260911170229.png]]
+	![[Pasted image 20260911170229.png|358]]
 	
 
 	Convergencia cuadratica del metodo: El error del paso k+1 esta en funcion del cuadrado del error en el paso k.
+	![[Pasted image 20260911173104.png]]
+
+	Metodos iterativos o indirectos: parten de una aproximacion inicial y por medio de un algoritmo se hacen aproximaciones sucesivamente mejores en cada paso HASTA SATISFACER LA CONDICION DE CORTE.
 	
+	Son los límites para detener un método iterativo cuando se alcanza la precisión deseada:
+	
+	**Precisión en $x$:** $\vert{}x_{k+1} - x_k\vert{} \le \delta_x$
+	    - Mide el avance horizontal entre iteraciones sucesivas.
+	    - Se detiene cuando los pasos son despreciables y los valores se estabilizan.
+	**Precisión en $y$:** $\vert{}f(x)\vert{} \le \delta_y$
+	    - Mide el residuo vertical respecto a cero.
+	    - Se detiene cuando la altura de la función es prácticamente nula.
+	
+	**Importancia:** No alcanza con usar uno solo:
+	- Si la curva es muy plana, $\vert{}f(x)\vert{} \le \delta_y$ se cumple lejos de la raíz real.
+	- Si la curva es casi vertical, $\vert{}x_{k+1} - x_k\vert{} \le \delta_x$ se cumple con la función aún distante del cero.
+	- En la práctica deben verificarse ambos criterios simultáneamente.
+
+![[Pasted image 20260911174948.png]]
+
+
+#EcuacionesDiferenciales
+
