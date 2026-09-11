@@ -124,4 +124,8 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
 - Aproximaciones sucesivas: Mejores en cada paso.
   Reemplaza la funcion original f(x)=0 a x=G(x) tal que cualquier solucion de esta tambien lo sea de la original.
   ![[Pasted image 20260911144416.png]]
+  Dado x0 aproximacion inicial:
+	- Se puede calcular x1, x2, x3, ...
+	- La sucesion x1, x2, x3 convergen a la raiz Ɛ
+	- El limite Ɛ constituye un punto fijo en si mismo de G(x). Ɛ=G(Ɛ)
   
