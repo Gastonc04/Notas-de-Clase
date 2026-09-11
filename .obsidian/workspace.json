@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -197,8 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2622b9e77633641c",
+  "active": "dd461d3fb852ee63",
   "lastOpenFiles": [
+    "Analisis Numérico/2-9 (Virtual).md",
+    "Analisis Numérico/Resumen Parcial 1.md",
     "Pasted image 20260909165848.png",
     "Pasted image 20260909165502.png",
     "Pasted image 20260909165345.png",
@@ -209,11 +212,8 @@
     "Pasted image 20260909145848.png",
     "Pasted image 20260909145700.png",
     "Pasted image 20260909145004.png",
-    "Pasted image 20260909004947.png",
-    "Analisis Numérico/Resumen Parcial 1.md",
     "Diseño de Sistemas/Resumen Parcial 2.md",
     "Diseño de Sistemas/Resumen Parcial 1.md",
-    "Analisis Numérico/2-9 (Virtual).md",
     "Analisis Numérico",
     "Backend/Resumen.md",
     "Economía/27-8.md",

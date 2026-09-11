@@ -1,5 +1,9 @@
 
+Para el estudio de la realidad usamos modelos matematicos, es decir herramientas de calculo numerico cuyos resultados cotejan con la realidad.
+
 #MinimosCuadrados
+
+Pares ordenados de Datos NO exactos
 
 ecuacion lineal: polinomio 1er grado. (incognitas en distintos terminos elevadas a 1 y x una cte.)
 
@@ -85,6 +89,15 @@ para una funcion de 3 terminos c1, c2, c3:
 *RESUMEN*
 ![[Pasted image 20260909165848.png]]
 
-#EcuacionesNoLineales
+#EcuacionesNoLineales 
+Ecuacion con una variable elevada a una potencia distinta de 1 o que incluye funciones trascendentes (trigonometricas, algebraicas o polinomios de grado mayor a 1)
 
-hola
+Se busca encontrar las raices, asi que se van a aproximar a ellas. SUCESIVAMENTE.
+
+La aproximacion que cumpla con error propuesto, se toma como solucion aproximada.
+
+intervalo [a,b] de la F(x). Las raices son cada valor Ɛ para el cual la funcion se anula f(Ɛ)=0.
+
+Etapas:
+- Aislamiento de raices
+- Aplicacion 
