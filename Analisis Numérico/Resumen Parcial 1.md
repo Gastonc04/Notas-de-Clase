@@ -148,10 +148,10 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
   $$x_{k+1} - \varepsilon \approx (x_k - \varepsilon) G'(\varepsilon)$$
   ![[Pasted image 20260911160936.png]]
 
-- Metodo de Newton Raphson: Mayor velocidad de convergencia.
-  Deduccion a partir de:
-  - Se deriva de la serrie de Taylor.
-  - Como un caso particular del punto fijo.
+2) Metodo de Newton Raphson: Mayor velocidad de convergencia.
+	  Deduccion a partir de:
+	  - Se deriva de la serrie de Taylor.
+	  - Como un caso particular del punto fijo.
 
     DESARROLLO SERIE DE TAYLOR
     ![[Pasted image 20260911162630.png]]
@@ -160,4 +160,12 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
 	![[Pasted image 20260911162812.png]]
 
 	DESARROLLO CASO PARTICULAR DE PUNTO FIJO
+	![[Pasted image 20260911165610.png]]
+	![[Pasted image 20260911170109.png]]
+	
+	Interpretacion grafica
+	![[Pasted image 20260911170229.png]]
+	
+
+	Convergencia cuadratica del metodo: El error del paso k+1 esta en funcion del cuadrado del error en el paso k.
 	
