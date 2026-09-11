@@ -129,3 +129,14 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
 	- La sucesion x1, x2, x3 convergen a la raiz Ɛ
 	- El limite Ɛ constituye un punto fijo en si mismo de G(x). Ɛ=G(Ɛ)
   
+  ![[Pasted image 20260911153408.png]]
+  Sean G(x) y G'(x) continuas en el intervalo, si se cumple la condicion de convergencia para todos los puntos en el intervalo y si la aproximacion inicial pertenece al intervalo
+  entonces:
+  ![[Pasted image 20260911153818.png]]
+  converge a la raiz Ɛ
+  
+  DESARROLLO
+  ![[Pasted image 20260911154643.png]]
+  ![[Pasted image 20260911154858.png]]
+  ![[Pasted image 20260911154922.png]]
+  
