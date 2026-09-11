@@ -100,4 +100,28 @@ intervalo [a,b] de la F(x). Las raices son cada valor Ɛ para el cual la funcion
 
 Etapas:
 - Aislamiento de raices
-- Aplicacion 
+- Aplicacion del metodo para encontrarlas
+
+Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una unica raiz.
+- Teorema 1: si una f(x) asume valores de signos opuestos en los extremos de un intervalo [a,b], entonces el intervalo contendrá al menos un punto Ɛ tal que f(Ɛ)=0.
+![[Pasted image 20260911141735.png]]
+
+*Condicion necesaria:
+- SI SE CUMPLE: puede que exista 1 o un numero impar de raices.
+- SI NO SE CUMPLE: puede que no existan raices o un numero par de raices.
+![[Pasted image 20260911143333.png]]
+
+*Condicion suficiente:
+- La raiz Ɛ será unica en el intervalo si la derivada de f(x) existe y conserva su signo en todo el intervalo.
+
+1) Proceso de AISLAMIENTO
+- Construimos una tabla de pares ordenados y buscamos el cambio de signo (5 minimo) VERRR
+- Graficar la funcion
+- pasamos de f(x)=0 a f1(x)=f2(x) y buscamos la interseccion siendo estas las raices de f(x)
+![[Pasted image 20260911144005.png]]
+
+1) Proceso de MEJORAMIENTO
+- Aproximaciones sucesivas: Mejores en cada paso.
+  Reemplaza la funcion original f(x)=0 a x=G(x) tal que cualquier solucion de esta tambien lo sea de la original.
+  ![[Pasted image 20260911144416.png]]
+  
