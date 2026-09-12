@@ -221,3 +221,23 @@ Pueden compararse con la Serie de Taylor truncada en algun termino lo que define
 En cada aplicacion obtengo un par ordenado partiendo de las condiciones iniciales (x0, y0) -> ..., (xm, ym), (xm+1, ym+1)
 
 *Metodo de Euler*
+![[Pasted image 20260911232118.png|288]]
+condicion inicial: (xm,ym)
+xm+1 = xm+h
+h debe ser menor a 1
+L1 es la recta tg en (xm,ym) con pendiente
+![[Pasted image 20260911232315.png|243]]
+
+Interpretacion grafica
+![[Pasted image 20260911233031.png]]
+
+*Metodo de Euler Mejorado*
+![[Pasted image 20260911233221.png]]
+
+L1: tg en (xm,ym), pendiente ![[Pasted image 20260911233546.png|218]]
+
+L2: tg en (xm+1,ym+1e), pendiente ![[Pasted image 20260911233645.png|233]]
+
+L3: Bisectriz entre L1 y L2, pendiente ![[Pasted image 20260911233753.png]]
+
+L4: 
