@@ -193,3 +193,15 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
 
 #EcuacionesDiferenciales
 
+Ecuacion que contiene derivadas de una o mas variables dependientes respecto a una o mas variables independientes
+
+Pueden ser:
+- Ordinarias: derivadas ordinarias de una o mas variables dependientes respecto a una sola variable independientes
+- A derivadas parciales: derivadas parciales de una o mas variables dependientes respecto a mas de una variable independiente.
+- Con condiciones iniciales: cuando las condiciones iniciales estan relacionadas a solo un valor de x
+- Cuando las condiciones iniciales estan relacionadas a mas de un valor de x.
+
+Trabajamos con Ecuaciones Diferenciales Ordinarias con Condiciones Iniciales.
+
+Orden dado por la derivada de mayor orden (Primer orden u Orden superior)
+
