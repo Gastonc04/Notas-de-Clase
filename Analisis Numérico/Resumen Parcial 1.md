@@ -198,10 +198,15 @@ Ecuacion que contiene derivadas de una o mas variables dependientes respecto a u
 Pueden ser:
 - Ordinarias: derivadas ordinarias de una o mas variables dependientes respecto a una sola variable independientes
 - A derivadas parciales: derivadas parciales de una o mas variables dependientes respecto a mas de una variable independiente.
-- Con condiciones iniciales: cuando las condiciones iniciales estan relacionadas a solo un valor de x
+- Con condiciones iniciales: cuando las condiciones iniciales estan relacionadas a solo un valor de x.
+  ![[Pasted image 20260911214610.png|270]]
 - Cuando las condiciones iniciales estan relacionadas a mas de un valor de x.
 
 Trabajamos con Ecuaciones Diferenciales Ordinarias con Condiciones Iniciales.
 
 Orden dado por la derivada de mayor orden (Primer orden u Orden superior)
+
+Solucion:
+- Analitica: Obtencion de la funcion y(x) en forma explicita. Podemos obtener todos los valores de y para cualquier valor de x.
+- Discretizada: Obtencion de valores aproximados de la solucion de la ecuacion diferencial. Se usan algoritmos numericos (Euler, Euler mejorado, Runge Kutta)
 
