@@ -211,7 +211,7 @@ Solucion:
 - Discretizada: Obtencion de valores aproximados de la solucion de la ecuacion diferencial. Se usan algoritmos numericos (Euler, Euler mejorado, Runge Kutta).
 
 Dada una ecuacion diferencial y la condicion inicial, se pide calcular la solucion final.
-![[Pasted image 20260911221254.png]]
+![[Pasted image 20260911221254.png|520]]
 ![[Pasted image 20260911221353.png|215]]
 
 Metodos numericos de Runge Kutta:
@@ -225,19 +225,18 @@ En cada aplicacion obtengo un par ordenado partiendo de las condiciones iniciale
 condicion inicial: (xm,ym)
 xm+1 = xm+h
 h debe ser menor a 1
-L1 es la recta tg en (xm,ym) con pendiente
-![[Pasted image 20260911232315.png|243]]
+L1 es la recta tg en (xm,ym) con pendiente![[Pasted image 20260911232315.png|198]]
 Interpretacion grafica
-![[Pasted image 20260911233031.png]]
+![[Pasted image 20260911233031.png|444]]
 
 *Metodo de Euler Mejorado*
-![[Pasted image 20260911233221.png]]
-L1: tg en (xm,ym), pendiente ![[Pasted image 20260911233546.png|218]]
-L2: tg en (xm+1,ym+1e), pendiente ![[Pasted image 20260911233645.png|233]]
-L3: Bisectriz entre L1 y L2, pendiente ![[Pasted image 20260911233753.png]]
-L4: paralela a L3 (misma pendiente), pero pasa por el punto (xm,ym)![[Pasted image 20260911234714.png]]
+![[Pasted image 20260911233221.png|379]]
+L1: tg en (xm,ym), pendiente ![[Pasted image 20260911233546.png|161]]
+L2: tg en (xm+1,ym+1e), pendiente ![[Pasted image 20260911233645.png|199]]
+L3: Bisectriz entre L1 y L2, pendiente ![[Pasted image 20260911233753.png|306]]
+L4: paralela a L3 (misma pendiente), pero pasa por el punto (xm,ym)![[Pasted image 20260911234714.png|550]]
 
 *Runge Kutta de 4to orden*
-![[Pasted image 20260911235724.png]]
+![[Pasted image 20260911235724.png|384]]
 
 Si la ecuacion diferencial es de orden n obtendremos un sistema de n ecuaciones diferenciales de primer orden.
