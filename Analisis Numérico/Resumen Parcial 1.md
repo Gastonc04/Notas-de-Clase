@@ -208,5 +208,16 @@ Orden dado por la derivada de mayor orden (Primer orden u Orden superior)
 
 Solucion:
 - Analitica: Obtencion de la funcion y(x) en forma explicita. Podemos obtener todos los valores de y para cualquier valor de x.
-- Discretizada: Obtencion de valores aproximados de la solucion de la ecuacion diferencial. Se usan algoritmos numericos (Euler, Euler mejorado, Runge Kutta)
+- Discretizada: Obtencion de valores aproximados de la solucion de la ecuacion diferencial. Se usan algoritmos numericos (Euler, Euler mejorado, Runge Kutta).
 
+Dada una ecuacion diferencial y la condicion inicial, se pide calcular la solucion final.
+![[Pasted image 20260911221254.png]]
+![[Pasted image 20260911221353.png|215]]
+
+Metodos numericos de Runge Kutta:
+Pueden compararse con la Serie de Taylor truncada en algun termino lo que define el orden del metodo y la precision de la solucion.
+![[Pasted image 20260911223229.png]]
+
+En cada aplicacion obtengo un par ordenado partiendo de las condiciones iniciales (x0, y0) -> ..., (xm, ym), (xm+1, ym+1)
+
+*Metodo de Euler*
