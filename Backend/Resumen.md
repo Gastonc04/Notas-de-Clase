@@ -178,11 +178,22 @@ Visual Studio Code
 
 ## Apunte 2 - Java
 
-Apunte
+Caracteristicas de Java:
+- Lenguaje de alto nivel
+- Puramente Orientado a Objetos
+- Independiente de la plataforma (donde exista una JVM)
+- Compilado e interpretado: JVM (Java Virtual Machine) es un entorno de ejecucion que interpreta y ejecuta el codigo en cualquier dispositivo con JVM instalado sin necesidad de recompilarlo.
+- Gestion de memoria automatica
+- Multihilos
 
-txt
+Consideraciones:
+- Es case sensitive: Sensible a mayusculas
+- Division de bloques en llaves {}
+- Para terminar una sentencia ;
 
-  
+Java SDK o Java JDK: Kit de Desarrollo de Software de Java
+
+
 
 ---
 
