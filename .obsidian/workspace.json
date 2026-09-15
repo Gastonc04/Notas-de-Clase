@@ -82,13 +82,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Analisis Numérico/Resumen Parcial 1.md",
-                "bFile": "Analisis Numérico/Resumen Parcial 1.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Resumen Parcial 1  (Index)"
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
         ],
@@ -267,7 +266,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "779d9a10392c986d",
+  "active": "e4eeb138c6bff1a2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "IMAGENES/Pasted image 20260909004938.png",
