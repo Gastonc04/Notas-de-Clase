@@ -222,6 +222,8 @@ NOTA: El bytecode es universal, la JVM es el traductor local que lo entiende en 
 
 ## Apunte 3 - Maven
 
+Definicion: Es un framework de automatizacion de ciclo de vida de un proyecto centralmente Java.
+
 Maven es:
 - Generador de estructuras de proyectos: Arquetipos. Artefacto (Contiene codigo compilado y depedencias)
 - Administrador y distribuidor de dependencias
@@ -239,6 +241,19 @@ Orquestacion:
 - install
 - deploy
 
+Generacion de proyecto:
+![[Pasted image 20260915190336.png]]
+
+cuando hacemos un compile, se genera .class, luego package para empaquetar todo en un .jar ejecutable contenido en target con un MANIFEST.MF que contiene el punto de inicio de la aplicacion.
+
+mvn exec:java -> Ejecuta el proyecto idealmente en instancias de desarrollo, sin necesidad de empaquetar
+
+Repositorios: pueden ser privados o locales (carpeta .m2).
+- Central: Almacena una gran biblioteca de librerias y artefactos Java para no descargar dependencias manualmente.
+- Remoto: Adicional a las central.
+- Local o Cache: Cuando se descarga una dependencia por primera vez. En .m2. Favorece a la reutilizacion de dependencias para no volver a descargarlas.
+
+Con Fat JAR o Uber JAR puedo generar el .jar con todas las dependencias para evitar errores de ejecucion
 
 
 ---
