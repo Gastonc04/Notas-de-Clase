@@ -20,78 +20,8 @@
               "icon": "lucide-file",
               "title": "Resumen"
             }
-          },
-          {
-            "id": "7f7c2f9fa9c9d5b6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Analisis Numérico/Resumen Parcial 1.md",
-                "bFile": "Analisis Numérico/Resumen Parcial 1.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Resumen Parcial 1  (Working Tree)"
-            }
-          },
-          {
-            "id": "d8a2ae8a140d6a2a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Backend/Resumen.md",
-                "bFile": "Backend/Resumen.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Resumen  (Index)"
-            }
-          },
-          {
-            "id": "860f36a561085afc",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "f962067d095dd392",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMAGENES/Pasted image 20260909004938.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260909004938"
-            }
-          },
-          {
-            "id": "779d9a10392c986d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4eeb138c6bff1a2",
+  "active": "7723a3a9e04eef07",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "IMAGENES/Pasted image 20260909004938.png",
+    "conflict-files-obsidian-git.md",
     "Backend/Resumen.md",
     "Analisis Numérico/Resumen Parcial 1.md",
     "IMAGENES/Pasted image 20260914224351.png",
