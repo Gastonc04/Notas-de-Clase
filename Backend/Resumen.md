@@ -192,6 +192,10 @@ Consideraciones:
 - Para terminar una sentencia ;
 
 Java SDK o Java JDK: Kit de Desarrollo de Software de Java
+JRE: Java Runtime Environment. Para probar codigo que programo localmente
+
+Al compilar el codigo fuente programa.java se genera el bytecode programa.class que es el conjunto de instrucciones en bajo nivel que las ejecuta la JVM.
+La JVM hace una comprobacion de seguridad antes de ejecutar el bytecode, evitando accesos no autorizados a memoria o violaciones en manipulacion de datos.
 
 
 
@@ -200,8 +204,11 @@ Java SDK o Java JDK: Kit de Desarrollo de Software de Java
   
 
 Preguntas:  
+
 Diferencia entre java y javac.
+Javac es el Java Compiler. Java es el codigo fuente.
 
 ¿Qué comando usaste para comprobar JAVA_HOME?
+
 
 ¿Por qué es útil tener JAVA_HOME configurado?
