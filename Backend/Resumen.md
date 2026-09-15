@@ -227,6 +227,18 @@ Maven es:
 - Administrador y distribuidor de dependencias
 - Orquestador del ciclo de vida del proyecto
 
+Dependencias definidas en el pom.xml (Project Object Model): groupId, artifactId, version.
+group es generalmente el dominio, artifact es el identificador.
+
+Orquestacion:
+- clean
+- validate
+- compile
+- test
+- package
+- install
+- deploy
+
 
 
 ---

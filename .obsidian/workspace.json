@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis Numérico/Resumen Parcial 1.md",
+                "file": "Backend/Resumen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen Parcial 1"
+              "title": "Resumen"
             }
           }
         ]
@@ -199,10 +199,10 @@
   },
   "active": "2622b9e77633641c",
   "lastOpenFiles": [
+    "Analisis Numérico/Resumen Parcial 1.md",
     "Backend/Resumen.md",
     "IMAGENES/Pasted image 20260909004938.png",
     "conflict-files-obsidian-git.md",
-    "Analisis Numérico/Resumen Parcial 1.md",
     "IMAGENES/Pasted image 20260914224351.png",
     "IMAGENES/Pasted image 20260914220037.png",
     "IMAGENES/Pasted image 20260914220008.png",
