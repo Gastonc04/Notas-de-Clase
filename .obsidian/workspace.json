@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Resumen.md",
+                "file": "Analisis Numérico/Resumen Parcial 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen"
+              "title": "Resumen Parcial 1"
             }
           }
         ]
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7723a3a9e04eef07",
+  "active": "2622b9e77633641c",
   "lastOpenFiles": [
+    "Backend/Resumen.md",
     "IMAGENES/Pasted image 20260909004938.png",
     "conflict-files-obsidian-git.md",
-    "Backend/Resumen.md",
     "Analisis Numérico/Resumen Parcial 1.md",
     "IMAGENES/Pasted image 20260914224351.png",
     "IMAGENES/Pasted image 20260914220037.png",
