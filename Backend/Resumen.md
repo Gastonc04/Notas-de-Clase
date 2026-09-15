@@ -211,7 +211,22 @@ JVMs:
 - GraalVM
 - Azul Zing
 - SAP Machine
-- 
+La eleccion depende de las necesidades de la aplicacion.
+
+Una VM (Virtual Machine) simula un sistema operativo. La JVM interpreta o compila en tiempo de ejecucion.
+
+La JVM esta compuesta por:
+![[Pasted image 20260914224351.png]]
+
+NOTA: El bytecode es universal, la JVM es el traductor local que lo entiende en cada maquina donde se ejecute.
+
+## Apunte 3 - Maven
+
+Maven es:
+- Generador de estructuras de proyectos: Arquetipos
+- Administrador y distribuidor de dependencias
+- Orquestador del ciclo de vida del proyecto
+
 
 ---
 
