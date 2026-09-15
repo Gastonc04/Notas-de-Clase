@@ -192,12 +192,26 @@ Consideraciones:
 - Para terminar una sentencia ;
 
 Java SDK o Java JDK: Kit de Desarrollo de Software de Java
-JRE: Java Runtime Environment. Para probar codigo que programo localmente
+JRE: Java Runtime Environment. Para probar codigo que programo localmente. O simplemente ejecutar un programa ya compilado.
 
 Al compilar el codigo fuente programa.java se genera el bytecode programa.class que es el conjunto de instrucciones en bajo nivel que las ejecuta la JVM.
 La JVM hace una comprobacion de seguridad antes de ejecutar el bytecode, evitando accesos no autorizados a memoria o violaciones en manipulacion de datos.
 
+Es multiplataforma ya que puedo ejecutar el codigo ya compilado con un JRE en cualquier sistema operatativo.
 
+Definicion estandar de clases:
+![[Pasted image 20260914220037.png]]
+
+Se puede omitir de esta manera lo que hay dentro de public class:
+![[Pasted image 20260914220008.png]]
+
+JVMs:
+- HotSpot VM (Oracle/OpenJDK)
+- OpenJ9
+- GraalVM
+- Azul Zing
+- SAP Machine
+- 
 
 ---
 
