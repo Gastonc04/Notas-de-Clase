@@ -178,19 +178,67 @@ Visual Studio Code
 
 ## Apunte 2 - Java
 
-Apunte
+Caracteristicas de Java:
+- Lenguaje de alto nivel
+- Puramente Orientado a Objetos
+- Independiente de la plataforma (donde exista una JVM)
+- Compilado e interpretado: JVM (Java Virtual Machine) es un entorno de ejecucion que interpreta y ejecuta el codigo en cualquier dispositivo con JVM instalado sin necesidad de recompilarlo.
+- Gestion de memoria automatica
+- Multihilos
 
-txt
+Consideraciones:
+- Es case sensitive: Sensible a mayusculas
+- Division de bloques en llaves {}
+- Para terminar una sentencia ;
 
-  
+Java SDK o Java JDK: Kit de Desarrollo de Software de Java
+JRE: Java Runtime Environment. Para probar codigo que programo localmente. O simplemente ejecutar un programa ya compilado.
+
+Al compilar el codigo fuente programa.java se genera el bytecode programa.class que es el conjunto de instrucciones en bajo nivel que las ejecuta la JVM.
+La JVM hace una comprobacion de seguridad antes de ejecutar el bytecode, evitando accesos no autorizados a memoria o violaciones en manipulacion de datos.
+
+Es multiplataforma ya que puedo ejecutar el codigo ya compilado con un JRE en cualquier sistema operatativo.
+
+Definicion estandar de clases:
+![[Pasted image 20260914220037.png]]
+
+Se puede omitir de esta manera lo que hay dentro de public class:
+![[Pasted image 20260914220008.png]]
+
+JVMs:
+- HotSpot VM (Oracle/OpenJDK)
+- OpenJ9
+- GraalVM
+- Azul Zing
+- SAP Machine
+La eleccion depende de las necesidades de la aplicacion.
+
+Una VM (Virtual Machine) simula un sistema operativo. La JVM interpreta o compila en tiempo de ejecucion.
+
+La JVM esta compuesta por:
+![[Pasted image 20260914224351.png]]
+
+NOTA: El bytecode es universal, la JVM es el traductor local que lo entiende en cada maquina donde se ejecute.
+
+## Apunte 3 - Maven
+
+Maven es:
+- Generador de estructuras de proyectos: Arquetipos. Artefacto (Contiene codigo compilado y depedencias)
+- Administrador y distribuidor de dependencias
+- Orquestador del ciclo de vida del proyecto
+
+
 
 ---
 
   
 
 Preguntas:  
+
 Diferencia entre java y javac.
+Javac es el Java Compiler. Java es el codigo fuente.
 
 ¿Qué comando usaste para comprobar JAVA_HOME?
+
 
 ¿Por qué es útil tener JAVA_HOME configurado?

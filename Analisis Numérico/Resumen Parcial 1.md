@@ -1,5 +1,9 @@
 
+Para el estudio de la realidad usamos modelos matematicos, es decir herramientas de calculo numerico cuyos resultados cotejan con la realidad.
+
 #MinimosCuadrados
+
+Pares ordenados de Datos NO exactos
 
 ecuacion lineal: polinomio 1er grado. (incognitas en distintos terminos elevadas a 1 y x una cte.)
 
@@ -85,5 +89,154 @@ para una funcion de 3 terminos c1, c2, c3:
 *RESUMEN*
 ![[Pasted image 20260909165848.png]]
 
-#EcuacionesNoLineales
+#EcuacionesNoLineales 
+Ecuacion con una variable elevada a una potencia distinta de 1 o que incluye funciones trascendentes (trigonometricas, algebraicas o polinomios de grado mayor a 1)
 
+Se busca encontrar las raices, asi que se van a aproximar a ellas. SUCESIVAMENTE.
+
+La aproximacion que cumpla con error propuesto, se toma como solucion aproximada.
+
+intervalo [a,b] de la F(x). Las raices son cada valor Ɛ para el cual la funcion se anula f(Ɛ)=0.
+
+Etapas:
+- Aislamiento de raices
+- Aplicacion del metodo para encontrarlas
+
+Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una unica raiz.
+- Teorema 1: si una f(x) asume valores de signos opuestos en los extremos de un intervalo [a,b], entonces el intervalo contendrá al menos un punto Ɛ tal que f(Ɛ)=0.
+![[Pasted image 20260911141735.png]]
+
+*Condicion necesaria:
+- SI SE CUMPLE: puede que exista 1 o un numero impar de raices.
+- SI NO SE CUMPLE: puede que no existan raices o un numero par de raices.
+![[Pasted image 20260911143333.png]]
+
+*Condicion suficiente:
+- La raiz Ɛ será unica en el intervalo si la derivada de f(x) existe y conserva su signo en todo el intervalo.
+
+1) Proceso de AISLAMIENTO
+- Construimos una tabla de pares ordenados y buscamos el cambio de signo (5 minimo) VERRR
+- Graficar la funcion
+- pasamos de f(x)=0 a f1(x)=f2(x) y buscamos la interseccion siendo estas las raices de f(x)
+![[Pasted image 20260911144005.png]]
+
+1) Proceso de MEJORAMIENTO o PUNTO FIJO
+- Aproximaciones sucesivas: Mejores en cada paso.
+  Reemplaza la funcion original f(x)=0 a x=G(x) tal que cualquier solucion de esta tambien lo sea de la original.
+  ![[Pasted image 20260911144416.png]]
+  Dado x0 aproximacion inicial:
+	- Se puede calcular x1, x2, x3, ...
+	- La sucesion x1, x2, x3 convergen a la raiz Ɛ
+	- El limite Ɛ constituye un punto fijo en si mismo de G(x). Ɛ=G(Ɛ)
+  
+  ![[Pasted image 20260911153408.png]]
+  Sean G(x) y G'(x) continuas en el intervalo, si se cumple la condicion de convergencia para todos los puntos en el intervalo y si la aproximacion inicial pertenece al intervalo
+  entonces:
+  ![[Pasted image 20260911153818.png]]
+  converge a la raiz Ɛ
+  
+  DESARROLLO
+  ![[Pasted image 20260911154643.png]]
+  ![[Pasted image 20260911154858.png]]
+  
+  2.
+  ![[Pasted image 20260911154922.png]]
+  El termino de la izquierda es $e_{k+1}$
+  
+  Se desarrolla Taylor, se desprecia $(x_k - \varepsilon)^2$ ya que es insignificante al estar tan cerca xk de e.
+  $$G(x_k) = G(\varepsilon) + (x_k - \varepsilon) G'(\varepsilon) + \frac{(x_k - \varepsilon)^2}{2} G''(\varepsilon) + \dots$$
+  Reemplazando esa aproximación lineal de Taylor en la resta del paso 2:$$x_{k+1} - \varepsilon = \left[ G(\varepsilon) + (x_k - \varepsilon) G'(\varepsilon) \right] - G(\varepsilon)$$
+  Queda:
+  $$x_{k+1} - \varepsilon \approx (x_k - \varepsilon) G'(\varepsilon)$$
+  ![[Pasted image 20260911160936.png|572]]
+
+2) Metodo de Newton Raphson: Mayor velocidad de convergencia.
+	  Deduccion a partir de:
+	  - Se deriva de la serrie de Taylor.
+	  - Como un caso particular del punto fijo.
+
+    DESARROLLO SERIE DE TAYLOR
+    ![[Pasted image 20260911162630.png|428]]
+    ![[Pasted image 20260911162658.png|119]]
+    Cambiamos nombres X=Xk+1, a=Xk
+	![[Pasted image 20260911162812.png|544]]
+
+	DESARROLLO CASO PARTICULAR DE PUNTO FIJO
+	![[Pasted image 20260911165610.png|216]]
+	![[Pasted image 20260911170109.png|283]]
+	
+	Interpretacion grafica
+	![[Pasted image 20260911170229.png|358]]
+	
+
+	Convergencia cuadratica del metodo: El error del paso k+1 esta en funcion del cuadrado del error en el paso k.
+	![[Pasted image 20260911173104.png]]
+
+	Metodos iterativos o indirectos: parten de una aproximacion inicial y por medio de un algoritmo se hacen aproximaciones sucesivamente mejores en cada paso HASTA SATISFACER LA CONDICION DE CORTE.
+	
+	Son los límites para detener un método iterativo cuando se alcanza la precisión deseada:
+	
+	**Precisión en $x$:** $\vert{}x_{k+1} - x_k\vert{} \le \delta_x$
+	    - Mide el avance horizontal entre iteraciones sucesivas.
+	    - Se detiene cuando los pasos son despreciables y los valores se estabilizan.
+	**Precisión en $y$:** $\vert{}f(x)\vert{} \le \delta_y$
+	    - Mide el residuo vertical respecto a cero.
+	    - Se detiene cuando la altura de la función es prácticamente nula.
+	
+	**Importancia:** No alcanza con usar uno solo:
+	- Si la curva es muy plana, $\vert{}f(x)\vert{} \le \delta_y$ se cumple lejos de la raíz real.
+	- Si la curva es casi vertical, $\vert{}x_{k+1} - x_k\vert{} \le \delta_x$ se cumple con la función aún distante del cero.
+	- En la práctica deben verificarse ambos criterios simultáneamente.
+
+![[Pasted image 20260911174948.png]]
+
+
+#EcuacionesDiferenciales
+
+Ecuacion que contiene derivadas de una o mas variables dependientes respecto a una o mas variables independientes
+
+Pueden ser:
+- Ordinarias: derivadas ordinarias de una o mas variables dependientes respecto a una sola variable independientes
+- A derivadas parciales: derivadas parciales de una o mas variables dependientes respecto a mas de una variable independiente.
+- Con condiciones iniciales: cuando las condiciones iniciales estan relacionadas a solo un valor de x.
+  ![[Pasted image 20260911214610.png|270]]
+- Cuando las condiciones iniciales estan relacionadas a mas de un valor de x.
+
+Trabajamos con Ecuaciones Diferenciales Ordinarias con Condiciones Iniciales.
+
+Orden dado por la derivada de mayor orden (Primer orden u Orden superior)
+
+Solucion:
+- Analitica: Obtencion de la funcion y(x) en forma explicita. Podemos obtener todos los valores de y para cualquier valor de x.
+- Discretizada: Obtencion de valores aproximados de la solucion de la ecuacion diferencial. Se usan algoritmos numericos (Euler, Euler mejorado, Runge Kutta).
+
+Dada una ecuacion diferencial y la condicion inicial, se pide calcular la solucion final.
+![[Pasted image 20260911221254.png|520]]
+![[Pasted image 20260911221353.png|215]]
+
+Metodos numericos de Runge Kutta:
+Pueden compararse con la Serie de Taylor truncada en algun termino lo que define el orden del metodo y la precision de la solucion.
+![[Pasted image 20260911223229.png]]
+
+En cada aplicacion obtengo un par ordenado partiendo de las condiciones iniciales (x0, y0) -> ..., (xm, ym), (xm+1, ym+1)
+
+*Metodo de Euler*
+![[Pasted image 20260911232118.png|288]]
+condicion inicial: (xm,ym)
+xm+1 = xm+h
+h debe ser menor a 1
+L1 es la recta tg en (xm,ym) con pendiente![[Pasted image 20260911232315.png|198]]
+Interpretacion grafica
+![[Pasted image 20260911233031.png|444]]
+
+*Metodo de Euler Mejorado*
+![[Pasted image 20260911233221.png|379]]
+L1: tg en (xm,ym), pendiente ![[Pasted image 20260911233546.png|161]]
+L2: tg en (xm+1,ym+1e), pendiente ![[Pasted image 20260911233645.png|199]]
+L3: Bisectriz entre L1 y L2, pendiente ![[Pasted image 20260911233753.png|306]]
+L4: paralela a L3 (misma pendiente), pero pasa por el punto (xm,ym)![[Pasted image 20260911234714.png|550]]
+
+*Runge Kutta de 4to orden*
+![[Pasted image 20260911235724.png|384]]
+
+Si la ecuacion diferencial es de orden n obtendremos un sistema de n ecuaciones diferenciales de primer orden.
