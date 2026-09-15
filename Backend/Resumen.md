@@ -223,9 +223,10 @@ NOTA: El bytecode es universal, la JVM es el traductor local que lo entiende en 
 ## Apunte 3 - Maven
 
 Maven es:
-- Generador de estructuras de proyectos: Arquetipos
+- Generador de estructuras de proyectos: Arquetipos. Artefacto (Contiene codigo compilado y depedencias)
 - Administrador y distribuidor de dependencias
 - Orquestador del ciclo de vida del proyecto
+
 
 
 ---
