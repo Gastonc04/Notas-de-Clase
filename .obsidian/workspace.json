@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 358.5
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -197,8 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7723a3a9e04eef07",
+  "active": "2622b9e77633641c",
   "lastOpenFiles": [
+    "IMAGENES/Pasted image 20260915193649.png",
+    "IMAGENES/Pasted image 20260915193643.png",
+    "IMAGENES/Pasted image 20260915193635.png",
     "IMAGENES/Pasted image 20260915190336.png",
     "Analisis Numérico/Resumen Parcial 1.md",
     "Backend/Resumen.md",
@@ -210,9 +213,6 @@
     "IMAGENES/Pasted image 20260911235724.png",
     "IMAGENES/Pasted image 20260911234714.png",
     "IMAGENES/Pasted image 20260911233753.png",
-    "IMAGENES/Pasted image 20260911233645.png",
-    "IMAGENES/Pasted image 20260911233546.png",
-    "IMAGENES/Pasted image 20260911233221.png",
     "IMAGENES",
     "Diseño de Sistemas/Resumen Parcial 2.md",
     "Diseño de Sistemas/Resumen Parcial 1.md",

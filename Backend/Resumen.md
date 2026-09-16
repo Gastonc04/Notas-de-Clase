@@ -253,8 +253,14 @@ Repositorios: pueden ser privados o locales (carpeta .m2).
 - Remoto: Adicional a las central.
 - Local o Cache: Cuando se descarga una dependencia por primera vez. En .m2. Favorece a la reutilizacion de dependencias para no volver a descargarlas.
 
-Con Fat JAR o Uber JAR puedo generar el .jar con todas las dependencias para evitar errores de ejecucion
+Con Fat JAR o Uber JAR puedo generar el .jar con todas las dependencias para evitar errores de ejecucion. maven-assembly-plugin dentro de <build> <plugins>. Esto ademas de contemplar todas las dependencias, contiene todas las clases compiladas y todos los recursos.
+El mvn package no incluye las dependencias al empaquetar.
+El .jar es solo un archivo .zip con clases y un manifiesto.
 
+![[Pasted image 20260915193649.png]]
+
+Con mvn deploy comparto el .jar con otros equipos y proyectos. DESPLIEGUE del proyecto a un repositorio remoto para descargarlo como dependencia.
+De esta manera se publican y consumen artefactos en estos repositorios.
 
 ---
 
