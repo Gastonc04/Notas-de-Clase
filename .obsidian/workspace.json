@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Resumen.md",
+                "file": "Backend/15-9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen"
+              "title": "15-9"
             }
           }
         ]
@@ -197,13 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aef86dc16523667c",
+  "active": "2622b9e77633641c",
   "lastOpenFiles": [
+    "Backend/Resumen.md",
     "IMAGENES/Pasted image 20260915193649.png",
     "IMAGENES/Pasted image 20260915193643.png",
     "IMAGENES/Pasted image 20260915193635.png",
     "IMAGENES/Pasted image 20260915190336.png",
-    "15-9.md",
+    "Backend/15-9.md",
     "IMAGENES/Pasted image 20260914224351.png",
     "IMAGENES/Pasted image 20260914220037.png",
     "IMAGENES/Pasted image 20260914220008.png",
@@ -212,10 +213,8 @@
     "IMAGENES",
     "Analisis Numérico/Resumen Parcial 1.md",
     "IMAGENES/Pasted image 20260908232414.png",
-    "Backend/Resumen.md",
     "Economía/20-8.md",
     "Economía/27-8.md",
-    "IMAGENES/Pasted image 20260911235724.png",
     "Analisis Numérico/2-9 (Virtual).md",
     "Diseño de Sistemas/Resumen Parcial 2.md",
     "Diseño de Sistemas/Resumen Parcial 1.md",
