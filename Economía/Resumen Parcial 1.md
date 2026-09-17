@@ -122,4 +122,29 @@ Factores de Produccion: Recursos combinado o procesado para crear bienes o servi
 
 Factores:
 - Tierra: Recursos naturales
-- Trabajo: Actividad fisica o intelectual del hombre
+- Trabajo: Actividad fisica o intelectual del hombre. Con remuneracion
+	- Sueldo: dependiente
+	- Honorarios: servicios profesionales independientes
+	- Beneficios/utilidades: empresas
+- Capital: Serie de bienes heterogeneos (maquinas, equipos, etc). Tambien dinero para pago de salarios
+- Tecnologia: Conocimientos y tecnicas. Permiten solucionar problemas.
+- Empresa: Ordenamiento general del proceso productivo
+
+Sectores de produccion:
+- Primario: Actividades de transformacion de recursos naturales en materia prima (ganaderia, agricultura, etc)
+- Secundario: Transforma los bienes en productos (construccion, alimenticio, etc)
+- Terciario: Prestacion de servicios sin producir bienes materiales.
+- Cuaternario: Actividades destinadas a innovar en los 3 sectores anteriores
+- Quinario: Actividades con protagonismo, normas y modelos productivos propios
+
+Costo de oportunidad: Nace del principio de escasez. Valor de la mejor alternativa al renunciar a la produccion de cualquier otro bien con recursos escasos.
+
+Frontera de Posibilidades de Produccion (FPP): Modelo economico. Reasigna recursos en la generacion de 2 productos X, Y.
+![[Pasted image 20260917000205.png]]
+
+Si producimos por debajo, estamos desperdiciando recursos (INEFICIENTE).
+
+Todo lo que esta en la linea son asignaciones de produccion EFICIENTES.
+
+Si hay mejoras, se puede desplazar la FPP por encima de la linea.
+
