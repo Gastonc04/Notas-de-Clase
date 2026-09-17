@@ -148,3 +148,31 @@ Todo lo que esta en la linea son asignaciones de produccion EFICIENTES.
 
 Si hay mejoras, se puede desplazar la FPP por encima de la linea.
 
+![[Pasted image 20260917000710.png]]
+
+Relacion con costo oportunidad:
+![[Pasted image 20260917000828.png]]
+
+En la concava para producir cada vez mas X tenes que producir cada vez menos y. En la lineal, mismas cantidades de sacrificio para X, Y. En la convexa cada vez que se quiere producir mas X, renuncias cada vez a menos Y.
+
+Circuito Economico Simple: Participan familias y  empresas. Circulacion de dinero y recursos.
+![[Pasted image 20260917002200.png]]
+
+Circuito Economico Simple + Sector Publico
+![[Pasted image 20260917002412.png]]
+
+Circuito Economico Simple + Sector Publico + Sector Financiero
+![[Pasted image 20260917002638.png]]
+
+Circuito Economico Simple + Sector Publico + Sector Financiero + Sector Externo
+![[Pasted image 20260917002837.png]]
+
+
+Microeconomia: Analisis del comportamiento del individuo (familia, empresas, relacion con el mercado)
+
+Macroeconomia: Analisis de la economia en conjunto. Gasto total, produccion a nivel pais, desempleo.
+
+Interacciones en la economia: Decisiones de agentes o individuos.
+
+Principio que rigen las interacciones:
+- Intercambio genera ganancias: division de trabajo y esp
