@@ -231,4 +231,47 @@ Demanda y mercado (Familias y empresas). Pueden haber cambio de variables:
 
 Consumidor: Unidad economica con ingresos limitados. QUE y CUANTO compro (demanda). QUE y CUANTO vendo (oferta).
 
-Teoria general de la demanda: Concepto de flujo. Cantidades en un periodo de tiempo determinado.
+Teoria general de la demanda: Concepto de flujo. Cantidades en un periodo de tiempo determinado. 10 litros de leche por MES.
+
+Determinantes de la demanda:
+- Económicos (Px, Pn, Y)
+- Extra económicos (G)
+- Otros (Tamaño del Mercado, Expectativas)
+
+Px / Precio de x: Analizamos el precio de un bien.
+Pn: Analizar el precio de un bien sustituto.
+Y: Ingreso (compuesto por el salario primordialmente).
+G / Gustos: Fisiológicos (necesidad), costumbre, religiosas.
+Tamaño del Mercado: Cantidad de demanda que puedo reunir en ese mercado (Por ejemplo un kiosco en un pueblito).
+Expectativas: A futuro.
+![[Pasted image 20260917071648.png]]
+
+Teoria general de la demanda:
+- Px: Las cantidades demandadas AUMENTAN a medida que se DISMINUYE el precio y viceversa. Hay una relacion inversa.
+  ![[Pasted image 20260917071931.png]]
+
+- Yd: Las cantidades demandadas AUMENTAN a medida que se AUMENTAN los ingresos. Efecto Renta.
+  ![[Pasted image 20260917072121.png]]
+  ![[Pasted image 20260917072234.png]]
+
+- Pn:
+	- Bienes complementarios: Las cantidades demandadas de X DISMINUYEN a medida que se AUMENTAN los precios de Y. Si aumenta el precio de la nafta, la demanda de los autos nafteros disminuye.
+	  ![[Pasted image 20260917072608.png]]
+	  ![[Pasted image 20260917072729.png]]
+	  
+	- Bienes sustitutos: Al AUMENTAR el precio de X, puede DISMINUIR su demanda y AUMENTAR la demanda de Y (desplaza hacia la derecha). Al DISMINUIR el precio de alguna, siempre va a quedar mas demandada esa. Si bajo la anterior, la curva se desplaza hacia la izquierda en el que sustituia.
+	  ![[Pasted image 20260917072804.png]]
+	  ![[Pasted image 20260917072813.png]]
+	  
+	- G: AUMENTO de preferencias de un bien, AUMENTO de demanda.
+	  ![[Pasted image 20260917073301.png]]
+
+Elasticidad demanda:
+- Elasticidad Precio (Ep): Intensidad de respuesta de un producto en la cantidad demandada ante la variacion de su precio.
+  ![[Pasted image 20260917073709.png]]
+  
+	- Ep > 1: Demanda elastica
+	- Ep = 1: Demanda unitaria
+	- Ep < 1: Demanda inelastica
+	- Ep ⟶ ∞: Perfectamente elastica
+	- Ep ⟶ 0: Perfectamente inelastica
