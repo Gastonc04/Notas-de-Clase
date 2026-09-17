@@ -67,5 +67,59 @@ Caracteristicas:
 - Recurrente: Aparicion luego de un lapso.
 - Concurrente: Aparicion de varias. Obliga a seleccionar por prioridad.
 
-Recursos:
+Recursos: Conjunto de elementos para producir bienes y servicios.
 
+Clasificacion:
+- Naturales: En la naturaleza. Renovables, No renovables (petroleo), Continuos que son inagotables (Energia solar)
+- Humanos: Originarios (mano de obra no calificada), Acumulacion (mano de obra calificada)
+- Instrumentales: Acumulacion de bienes y conocimientos. Equipamiento (maquinaria, herramientas, etc), Infraestructura (Comun para toda la sociedad, caminos, obras, etc)
+
+Bienes: Satisface de forma directa o indirecta necesidades
+
+Clasificacion:
+- Materiales: Tangible (moto, etc)
+- Inmateriales: Intangible (Educacion, turismo, etc)
+	
+	Segun caracter:
+- Libres: Abundantes, sin propiedad (aire, bosque, etc)
+- Economicos: Escasos, con precio (celular, etc)
+	
+	Segun naturaleza:
+- Capital: Para producir otros bienes
+- Consumo: Cuando satisfacen necesidades
+	- Perecederos: Destruibles o consumibles
+	- Duraderos
+	
+	Funcion:
+- Intermedio: Se incorpora a la produccion de otro bien
+- Finales: Se utiliza directamente
+	
+	Segun propiedad:
+- Publicos
+- Privados
+	
+	En relacion
+- Complementarios: Consumo en conjunto
+- Sustitutos: Ambos satisfacen lo mismo, dando lugar a la eleccion
+	
+	Segun demanda
+- Normales: Aumenta el ingreso del consumidor
+- Inferiores: Inferiores
+
+Servicios: Actividades o beneficios que una parte ofrece a otra.
+
+Clasificacion:
+	Segun quien realiza la prestacion
+- Publicos: El estado (distribucion de agua potable)
+- Privados: Empresa o persona fisica
+	
+- Mantenimiento
+- Administrativos
+
+Son intangibles, Inseparables (el que presta forma parte del servicio), Variables (depende quien, como, cuando y donde se ofrece), Perecederos.
+
+Factores de Produccion: Recursos combinado o procesado para crear bienes o servicios. Pertenece a un propietario.
+
+Factores:
+- Tierra: Recursos naturales
+- Trabajo: Actividad fisica o intelectual del hombre
