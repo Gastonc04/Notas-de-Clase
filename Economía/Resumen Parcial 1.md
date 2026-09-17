@@ -267,11 +267,25 @@ Teoria general de la demanda:
 	  ![[Pasted image 20260917073301.png]]
 
 Elasticidad demanda:
-- Elasticidad Precio (Ep): Intensidad de respuesta de un producto en la cantidad demandada ante la variacion de su precio.
+- Elasticidad Precio de la demanda (Ep): Intensidad de respuesta de un producto en la cantidad demandada ante la variacion de su precio.
   ![[Pasted image 20260917073709.png]]
   
-	- Ep > 1: Demanda elastica
+	- Ep > 1: Demanda elastica: Al variar el precio, varia en mayor proporcion la demanda. Bienes con muchos sustitutos o de lujo.
+	  ![[Pasted image 20260917074448.png]]
+	  
 	- Ep = 1: Demanda unitaria
-	- Ep < 1: Demanda inelastica
-	- Ep ⟶ ∞: Perfectamente elastica
-	- Ep ⟶ 0: Perfectamente inelastica
+	  
+	- Ep < 1: Demanda inelastica: Al variar el precio, la demanda varia en menor proporcion. Bienes con pocos sustitutos (gasolina).
+	  ![[Pasted image 20260917074211.png]]
+	  
+	- Ep ⟶ ∞: Perfectamente elastica: Ante la variacion minima de precio, la demanda es 0. Bienes con sustitutos perfectos.
+	  ![[Pasted image 20260917074555.png]]
+	  
+	- Ep ⟶ 0: Perfectamente inelastica: Ante variacion del precio, la demanda es practicamente la misma. Bienes sin sustitutos o muy basicos (sal, medicamentos).
+	  ![[Pasted image 20260917074124.png]]
+	  
+- Elasticidad ingreso de la demanda: Intensidad de respuesta de un producto en la cantidad demandada ante la variacion del ingreso del consumidor.
+  ![[Pasted image 20260917082205.png]]
+	
+	- Ey > 0: Bienes normales
+	- 
