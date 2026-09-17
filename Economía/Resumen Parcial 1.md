@@ -369,3 +369,26 @@ Equilibrio de mercado:
 El punto de equilibrio es la interseccion entre oferta y demanda. Es ESTABLE si no hay incentivos que generen cambios de comportamiento entre ambas partes.
 ![[Pasted image 20260917092142.png]]
 
+Variacion de factores (oferta y demanda):
+- Exceso de oferta (Excedente): Cuando el precio de un producto esta por encima del punto de equilibrio qe. Cantidad ofrecida > Cantidad demandada.
+  ![[Pasted image 20260917093712.png]]
+  
+  Se realiza una puja competitiva para determinar un punto de equilibrio. Figura 1.
+  
+- Exceso de demanda (Escasez): Cuando el precio de un producto esta por debajo del punto de equilibrio qe. Cantidad ofrecida < Cantidad demandada.
+  ![[Pasted image 20260917093930.png]]
+  
+  Se realiza una puja competitiva para determinar un punto de equilibrio. Figura 1.
+
+![[Pasted image 20260917094121.png]]
+
+Mercado de competencia perfecta: Gran numero de vendedores, gran numero de compradores, donde hay libertad para realizar transacciones y determinar precio de producto. No hay INTERVENCION estatal ni control de precio.
+
+Cambios de oferta y demanda: 
+- En el mismo sentido: AUMENTO/DISMINUCION de oferta/demanda simultaneamente. Se prevee la cantidad de equilibrio, pero no el precio de equilibrio (cambio ambiguo).
+- En sentidos opuestos: AUMENTO de demanda y DISMINUCION de oferta simultaneamente o viceversa. Se prevee el precio de equilibrio, pero no la cantidad de equilibrio (cambio ambiguo).
+
+Fallas de mercado: Situaciones que no se dan en la competencia perfecta. Un o muchos agentes manipulan el producto y precio.
+
+![[Pasted image 20260917095225.png]]
+
