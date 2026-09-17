@@ -392,3 +392,42 @@ Fallas de mercado: Situaciones que no se dan en la competencia perfecta. Un o mu
 
 ![[Pasted image 20260917095225.png]]
 
+Control de precios: Regulaciones impuestas por el gobierno para fijar condiciones en el precio de un bien o servicio, dificultando el equilibrio.
+- Precio minimo: 2 resultados posibles:
+	- Por debajo del precio de equilibrio (sin impacto)
+	  ![[Pasted image 20260917095758.png]]
+	  
+	- Por encima del precio de equilibrio (exceso de oferta)
+	 ![[Pasted image 20260917095858.png]]
+	
+- Precio maximo: 2 resultados:
+	- Por encima del precio de equilibrio (sin impacto)
+	  ![[Pasted image 20260917100158.png]]
+	  
+	- Por encima del precio de equilibrio (exceso de demanda - escasez de oferta)
+	  ![[Pasted image 20260917100208.png]]
+
+# Produccion
+
+Teoria de la produccion: Una empresa es una unidad economica de produccion que combina los Factores de Produccion: tierra, trabajo, capital para elaborar bienes o servicios que ofrecerá al mercado con el fin de obtener beneficios.
+
+Productor: Aquel que interviene en la elaboracion o produccion.
+
+Produccion: Proceso de combinar Factores de Produccion (tierra, trabajo, capital) para elaborar bienes o servicios.
+
+Factores de Produccion: 
+- Fijos (Fpf): Aquel cuya cantidad no es modificable en un periodo de tiempo. Bienes de capital (maquinas, fabrica, etc).
+- Variables (Fpv): Aquel cuya cantidad es modificable en un periodo de tiempo. Trabajo: T (horas de empleados, etc) y Materia prima (telas, harina, etc).
+
+Funcion produccion: Relacion entre Fpf y Fpv por unidad de tiempo y canitdad producida en ese periodo.
+- Producto total (PT): Cantidad de productos elaborados en un determinado periodo de tiempo con los Factores de Produccion empleados. 100 pizzas con 5 pizzeros.
+	![[Pasted image 20260917101417.png]]
+	
+	PT: Unidades fisicas de producto obtenido.
+	ufv: Unidades fisicas de Factor Variable empleado.
+	
+- Producto Medio del Factor Variable (PMefv): Promedio de produccion de unidades fisicas por trabajador. Evalua la eficiencia. 100 pizzas/5 pizzeros = 20 pizzas por pizzero.
+![[Pasted image 20260917101844.png]]
+
+- Producto Marginal del Factor Variable (Pmgfv): Cambio en PT al producir una unidad mas de factor variable.
+  ![[Pasted image 20260917102251.png]]

@@ -174,8 +174,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -200,17 +200,17 @@
   },
   "active": "c7e2ca209968c28b",
   "lastOpenFiles": [
+    "IMAGENES/Pasted image 20260917102251.png",
+    "IMAGENES/Pasted image 20260917101844.png",
+    "IMAGENES/Pasted image 20260917101417.png",
+    "IMAGENES/Pasted image 20260917100208.png",
+    "IMAGENES/Pasted image 20260917100158.png",
+    "IMAGENES/Pasted image 20260917095858.png",
+    "IMAGENES/Pasted image 20260917095758.png",
     "IMAGENES/Pasted image 20260917095225.png",
     "IMAGENES/Pasted image 20260917094121.png",
     "IMAGENES/Pasted image 20260917093930.png",
     "IMAGENES/Pasted image 20260917093712.png",
-    "IMAGENES/Pasted image 20260917092142.png",
-    "IMAGENES/Pasted image 20260917091925.png",
-    "IMAGENES/Pasted image 20260917090942.png",
-    "IMAGENES/Pasted image 20260917090912.png",
-    "IMAGENES/Pasted image 20260917090355.png",
-    "IMAGENES/Pasted image 20260917090244.png",
-    "IMAGENES/Pasted image 20260917090149.png",
     "Economía/27-8.md",
     "Economía/Resumen Parcial 1.md",
     "Economía/20-8.md",
