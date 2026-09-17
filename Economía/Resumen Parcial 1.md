@@ -316,13 +316,56 @@ Determinantes de la oferta:
 - Económicos (Px, Pn, Pfp, T)
 - Extra económicos (P)
 
-Px / Precio de x: Analizamos el precio de un bien.
-Pn: Analizar el precio de un bien sustituto a producir.
-Pfp: Precio de los Factores de Produccion para producir X.
-T: Estado de la tecnologia.
-P: Preferencias y objetivos del productor.
 ![[Pasted image 20260917084618.png]]
 
-Oferta - precio:
 - Px: Relacion entre oferta de un producto y su precio. Variable dependiente Q (Cantidad ofrecida) y variable independiente P (precio).
-- Pfp: Precio de los Factores de Produccion. Si aumenta el costo de estos
+- Pfp: Precio de los Factores de Produccion. Si aumenta el costo de estos, la cantidad ofertada o Q DISMINUYE. Si disminuye el costo de estos, Q AUMENTA.
+- Pn: Otros bienes que se pueden producir con mis Factores de Produccion.
+- T: Condiciones tecnologicas que se combinan con Factores de Produccion. Relacion directa / Al AUMENTAR, mejora la produccion.
+- P: preferencias del productor (subjetivos). Relacion directa.
+
+Elasticidad oferta:
+- Elasticidad Precio de la oferta: Intensidad de respuesta de la cantidad ofertada de un producto ante la variacion del precio.
+	- > 1: Elastica: Al variar el precio, varia en mayor proporcion la cantidad ofrecida. 
+	  ![[Pasted image 20260917090942.png]]
+	  
+	- Ep = 1: Unitaria: Variacion proporcional entre precio y demanda
+	  ![[Pasted image 20260917090355.png]]
+	  
+	- > 0 y < 1: Inelastica: Al variar el precio, la cantidad ofrecida varia en menor proporcion. 
+	  ![[Pasted image 20260917090912.png]]
+	  
+	- = ∞: Perfectamente elastica: Ante la variacion minima de precio, la cantidad ofrecida es 0. 
+	  ![[Pasted image 20260917090244.png]]
+	  
+	- = 0: Perfectamente inelastica: Ante variacion del precio, la cantidad ofrecida la misma. 
+	  ![[Pasted image 20260917090149.png]]
+	  
+- Elasticidad ingreso de la demanda: Intensidad de respuesta de un producto en la cantidad demandada ante la variacion del ingreso del consumidor.
+  ![[Pasted image 20260917082205.png]]
+	
+	- Ey > 0: Bienes normales. AUMENTA ingreso, AUMENTA en menor proporcion el consumo o cantidad demandada.
+	- Ey > 1: Bienes de lujo. AUMENTA ingreso, AUMENTA en mayor proporcion el consumo o cantidad demandada.
+	- Ey < 0: Bienes inferiores. AUMENTA ingreso, DISMINUYE el consumo o cantidad demandada.
+	  ![[Pasted image 20260917082535.png]]
+	  
+- Elasticidad cruzada: Intensidad de respuesta de un producto en la cantidad demandada ante la variacion del precio de otros productos.
+  ![[Pasted image 20260917082728.png]]
+	  
+	- Ec > 0: Bienes sutitutos. AUMENTA el precio de uno, DISMINUYE su demanda y AUMENTA el del otro.
+	- Ec < 0: Bienes complementarios. AUMENTA el precio de uno, DISMINUYE la demanda del otro.
+
+La elasticidad de la oferta depende de la capacidad de reaccion de los productores ante alteraciones del mercado:
+- Caracteristicas del proceso productivo. Mientras mas sea la capacidad de incrementar la cantidad ofrecida, mayor sera la elasticidad.
+- Necesidad de emplear Factores Productivos y/o insumos muy especificos. Mientras mas especificos sean los factores productivos, mas inelatica sera la curva.
+- Del periodo de tiempo: Mientras mas tiempo de reaccion, más elastica sera la curva.
+
+# Mercado
+
+Deben haber TRANSACCIONES para considerarse mercado.
+![[Pasted image 20260917091925.png]]
+
+Equilibrio de mercado: 
+El punto de equilibrio es la interseccion entre oferta y demanda. Es ESTABLE si no hay incentivos que generen cambios de comportamiento entre ambas partes.
+![[Pasted image 20260917092142.png]]
+
