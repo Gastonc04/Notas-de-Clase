@@ -201,4 +201,34 @@ Mercado: Conjunto de transacciones de intercambio de bienes/servicios entre indi
 
 Precio:
 - Absoluto: Precio de venta. Valor de cualquier bien o servicio en terminos monetarios.
-- Relativo: Precio expresado en terminos de otro bien. Px/Py
+- Relativo: Precio expresado en terminos de otro bien. Px/Py. El resultado se interpreta como: Renuncio a esa cantidad de productos Y para adquirir un producto X.
+
+Sistema de precios:
+- Economia de mercado: Equilibrio en precio sin intervencion estatal
+- Economia centralizada: Interviene el estado y establece precios.
+- Economia mixta: Interviene el estado para regular precios de ciertos mercados.
+
+Posibilidades de consumo / Restricciones presupuestarias: Conjunto de cestas de consumo que pueden ser consumidas por el consumidor dada la restriccion presupuestaria.
+Depende del ingreso del consumidor Yd y precio de los bienes o servicios a adquirir.
+Los gastos se ven LIMITADOS por sus ingresos.
+![[Pasted image 20260917065500.png]]
+
+RP puede variar:
+- Aumento de ingreso
+  ![[Pasted image 20260917065648.png]]
+
+- Disminucion de valor
+  ![[Pasted image 20260917065807.png]]
+
+Mercado de competencia perfecta: Bien homogeneo. Libertad de E/S de factores. Cuenta con informacion perfecta. El precio lo determina el mercado (OFERTA y DEMANDA).
+
+Demanda: Cantidad que se desea comprar en un mercado, a un precio y momento determinado.
+
+Demanda y mercado (Familias y empresas). Pueden haber cambio de variables:
+- AUMENTA demanda, AUMENTA precios, produccion = CTE
+- DISMINUYE demanda, DISMINUYE precios, AUMENTA demanda
+- AUMENTA salarios, AUMENTA demanda, AUMENTA produccion, AUMENTA precios
+
+Consumidor: Unidad economica con ingresos limitados. QUE y CUANTO compro (demanda). QUE y CUANTO vendo (oferta).
+
+Teoria general de la demanda: Concepto de flujo. Cantidades en un periodo de tiempo determinado.
