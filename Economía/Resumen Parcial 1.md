@@ -514,3 +514,39 @@ Relacion entre costos unitarios:
 - Cmg: Decrece si Aumenta PT. En la primera unidad productiva, CVMe = Cmg
 
 
+Si hay mejoras tecnologicas en la produccion y esto permite a la empresa producir lo mismo con menos fp, entonces el costo baja.
+
+La curva de CVT es inversa a la de PT. Ley de rendimientos decrecientes.
+
+- Optimo tecnico: PMefv = Pmgfv. Trabajadores maximizan la produccion promedio.
+- Maximo tecnico: Pt alcanza su maximo. Maxima produccion.
+- Optimo de explotacion: CMe alcanza su minimo. Costos unitarios minimos. CMe = Cmg.
+- Minimo de explotacion: CVMe alcanza su minimo. Costo variable por unidad producida minimo.
+![[Pasted image 20260917144427.png]]
+
+Minimizacion de costos: Cuando lo costos unitarios son lo mas bajos posibles.
+![[Pasted image 20260917144625.png]]
+
+# Beneficio
+
+Teoria de los beneficios:
+![[Pasted image 20260917144824.png]]
+
+Los beneficios son maxios cuando se alcanza la maxima diferencia entre ingresos totales y costos totales.
+
+Ingresos:
+- Ingresos Total (IT): Suma de dinero por venta de produccion.
+  ![[Pasted image 20260917145001.png]]
+
+- Ingreso Unitario Medio (IMe): Ingreso promedio por unidad vendida. En un mercado de competencia perfecta, los productores pueden vender todos sus productos al precio fijado (precio-aceptantes).
+  ![[Pasted image 20260917145221.png]]
+
+- Ingreso Marginal (Img): Ingreso total percibido al vender una unidad mas por periodo de tiempo. Es igual al precio en caso de empresas competitivas (precio constante).
+  ![[Pasted image 20260917145339.png]]
+
+Beneficios:
+- Beneficio Total (BT): Ganancia.
+  
+  ![[Pasted image 20260917145657.png]]
+
+- Beneficio Unitario Medio (BMe): Ganancia
