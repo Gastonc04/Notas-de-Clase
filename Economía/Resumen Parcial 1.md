@@ -511,4 +511,6 @@ Relacion entre costos unitarios:
 - CFMe: Decrece si Aumenta PT.
 - CVMe: Decrece si Aumenta PT y luego del minimo Crece. Se aplica la Ley de Rendimientos Marginales Decrecientes (Forma de la curva)
 - CMe: Decrece si Aumenta PT y luego del minimo Crece. Mayor tasa de crecimiento porque se adicion los CFMe y CVMe.
-- 
+- Cmg: Decrece si Aumenta PT. En la primera unidad productiva, CVMe = Cmg
+
+
