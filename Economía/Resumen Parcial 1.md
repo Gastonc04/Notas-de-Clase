@@ -421,13 +421,31 @@ Factores de Produccion:
 
 Funcion produccion: Relacion entre Fpf y Fpv por unidad de tiempo y canitdad producida en ese periodo.
 - Producto total (PT): Cantidad de productos elaborados en un determinado periodo de tiempo con los Factores de Produccion empleados. 100 pizzas con 5 pizzeros.
+  
 	![[Pasted image 20260917101417.png]]
 	
 	PT: Unidades fisicas de producto obtenido.
 	ufv: Unidades fisicas de Factor Variable empleado.
 	
 - Producto Medio del Factor Variable (PMefv): Promedio de produccion de unidades fisicas por trabajador. Evalua la eficiencia. 100 pizzas/5 pizzeros = 20 pizzas por pizzero.
-![[Pasted image 20260917101844.png]]
+  
+	![[Pasted image 20260917101844.png]]
 
 - Producto Marginal del Factor Variable (Pmgfv): Cambio en PT al producir una unidad mas de factor variable.
-  ![[Pasted image 20260917102251.png]]
+  
+    ![[Pasted image 20260917102532.png|291]]
+
+Ejemplo Tabular:
+![[Pasted image 20260917102900.png]]
+
+Representación gráfica de la función de producción:
+- Parte del origen: Si no hay factor variable (trabajadores = 0), la producción es cero.
+- Es continua: No tiene saltos; el factor variable se asume perfectamente divisible.
+- Tramo de rendimientos crecientes (hasta $L_0$): La producción crece a un ritmo cada vez mayor.
+- Tramo de rendimientos decrecientes (a partir de $L_0$): Tras el punto de inflexión, la producción sigue creciendo, pero a un ritmo cada vez menor.
+- Máximo técnico: Es el punto más alto de la función; muestra la producción máxima posible.
+- Tramo decreciente (después del máximo): Si sigues sumando factor variable en exceso, la producción total empieza a caer.
+  
+	![[Pasted image 20260917103340.png]]
+	
+	A: Mayor rendimiento.
