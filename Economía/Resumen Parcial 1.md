@@ -504,4 +504,11 @@ Tipos de Costos Unitarios:
 - Costo Marginal (CMg): Costo de producir una unidad mas. Indica si es conveniente aumentar la produccion.
   
   ![[Pasted image 20260917122519.png]]
-  
+
+![[Pasted image 20260917122848.png]]
+
+Relacion entre costos unitarios:
+- CFMe: Decrece si Aumenta PT.
+- CVMe: Decrece si Aumenta PT y luego del minimo Crece. Se aplica la Ley de Rendimientos Marginales Decrecientes (Forma de la curva)
+- CMe: Decrece si Aumenta PT y luego del minimo Crece. Mayor tasa de crecimiento porque se adicion los CFMe y CVMe.
+- 
