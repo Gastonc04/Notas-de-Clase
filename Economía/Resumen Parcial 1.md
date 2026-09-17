@@ -1,3 +1,5 @@
+# Conceptos generales
+
 Ciencia: conjunto de conocimientos obtenidos mediante la observación y el razonamiento, sistemáticamente estructurados y de los que se deducen principios y leyes generales con capacidad predictiva y comprobables experimentalmente.
 
 Ciencias sociales: se ocupan de la actividad humana en la sociedad. Entra la Economia aca.
@@ -175,4 +177,28 @@ Macroeconomia: Analisis de la economia en conjunto. Gasto total, produccion a ni
 Interacciones en la economia: Decisiones de agentes o individuos.
 
 Principio que rigen las interacciones:
-- Intercambio genera ganancias: division de trabajo y esp
+- Intercambio genera ganancias: division de trabajo y especializacion.
+- Individuos responden a incentivos, por lo que los mercados tienden al equilibrio.
+- Los recursos deben utilizarse de manera eficiente: Maxima ganancia con recursos disponibles.
+- Mercados tienden a la eficiencia.
+- Mercados no eficientes provocan intervencion del gobierno para el bienestar de la sociedad: Dadas las fallas de mercado.
+
+# Demanda
+
+Unidades de decision:
+- Familias: Unidades de consumo. Poseedores del Factores de Produccion. Limite: presupuesto.
+- Empresas: Unidad de produccion. Compran Factores de Produccion. Producen y venden servicios.
+- Sector publico: Conjunto de organos y adm. publicas. Interviene en la economia a traves de la actividad regulatoria.
+
+Problemas de la economia: Las 3 preguntas.
+- ¿Qué producir? $\rightarrow$ Curva de Posibilidades de Producción (FPP): Ayuda a decidir en qué gastar los recursos y qué bienes elegir.
+	
+- ¿Cómo producir? $\rightarrow$ Curva Isocuanta y Recta Isocosto: Juntas determinan la forma más barata de fabricar algo.
+	
+- ¿Para quién producir? $\rightarrow$ Curva de Lorenz: Sirve para ver qué tan equitativa o desigual es la repartición de lo producido entre los habitantes.
+
+Mercado: Conjunto de transacciones de intercambio de bienes/servicios entre individuos. Condicion: Que haya alguien dispuesto a comprar un bien y otro dispuesto a venderlo. No implica un lugar fisico.
+
+Precio:
+- Absoluto: Precio de venta. Valor de cualquier bien o servicio en terminos monetarios.
+- Relativo: Precio expresado en terminos de otro bien. Px/Py
