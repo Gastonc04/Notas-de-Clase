@@ -185,6 +185,8 @@ Principio que rigen las interacciones:
 
 # Demanda
 
+Definicion: Cantidad de un producto que se desea comprar en un mercado, a un precio y momento determinado.
+
 Unidades de decision:
 - Familias: Unidades de consumo. Poseedores del Factores de Produccion. Limite: presupuesto.
 - Empresas: Unidad de produccion. Compran Factores de Produccion. Producen y venden servicios.
@@ -221,8 +223,6 @@ RP puede variar:
   ![[Pasted image 20260917065807.png]]
 
 Mercado de competencia perfecta: Bien homogeneo. Libertad de E/S de factores. Cuenta con informacion perfecta. El precio lo determina el mercado (OFERTA y DEMANDA).
-
-Demanda: Cantidad que se desea comprar en un mercado, a un precio y momento determinado.
 
 Demanda y mercado (Familias y empresas). Pueden haber cambio de variables:
 - AUMENTA demanda, AUMENTA precios, produccion = CTE
@@ -287,5 +287,42 @@ Elasticidad demanda:
 - Elasticidad ingreso de la demanda: Intensidad de respuesta de un producto en la cantidad demandada ante la variacion del ingreso del consumidor.
   ![[Pasted image 20260917082205.png]]
 	
-	- Ey > 0: Bienes normales
-	- 
+	- Ey > 0: Bienes normales. AUMENTA ingreso, AUMENTA en menor proporcion el consumo o cantidad demandada.
+	- Ey > 1: Bienes de lujo. AUMENTA ingreso, AUMENTA en mayor proporcion el consumo o cantidad demandada.
+	- Ey < 0: Bienes inferiores. AUMENTA ingreso, DISMINUYE el consumo o cantidad demandada.
+	  ![[Pasted image 20260917082535.png]]
+	  
+- Elasticidad cruzada: Intensidad de respuesta de un producto en la cantidad demandada ante la variacion del precio de otros productos.
+  ![[Pasted image 20260917082728.png]]
+	  
+	- Ec > 0: Bienes sutitutos. AUMENTA el precio de uno, DISMINUYE su demanda y AUMENTA el del otro.
+	- Ec < 0: Bienes complementarios. AUMENTA el precio de uno, DISMINUYE la demanda del otro.
+
+# Oferta
+
+Definicion: Cantidad de un bien o servicio que se está dispuesto a vender a un precio determinado y en un determinado periodo de tiempo.
+
+Estudia comportamiento de empresas como productoras de bienes y servicios.
+
+Objetivo: Maximizar sus ingresos.
+Ingresos - Erogaciones totales
+
+Ley de la oferta: Relacion positiva o directa entre el precio y magnitud de la oferta (cantidades ofrecidas). AUMENTA precio, AUMENTA oferta y viceversa.
+![[Pasted image 20260917083944.png]]
+
+Teoria de la oferta: Comportamiento de empresas. Combina los Factores de Produccion: tierra, trabajo, capital en un PROCESO para elaborar bienes o servicios que ofrecerá al mercado.
+
+Determinantes de la oferta:
+- Económicos (Px, Pn, Pfp, T)
+- Extra económicos (P)
+
+Px / Precio de x: Analizamos el precio de un bien.
+Pn: Analizar el precio de un bien sustituto a producir.
+Pfp: Precio de los Factores de Produccion para producir X.
+T: Estado de la tecnologia.
+P: Preferencias y objetivos del productor.
+![[Pasted image 20260917084618.png]]
+
+Oferta - precio:
+- Px: Relacion entre oferta de un producto y su precio. Variable dependiente Q (Cantidad ofrecida) y variable independiente P (precio).
+- Pfp: Precio de los Factores de Produccion. Si aumenta el costo de estos
