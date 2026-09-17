@@ -448,4 +448,24 @@ Representación gráfica de la función de producción:
   
 	![[Pasted image 20260917103340.png]]
 	
-	A: Mayor rendimiento.
+	A: Mayor rendimiento. Cada unidad adicional de factor variable aporta al PT menor rendimiento que la anterior.
+	B: Optimo tecnico. PMefv maximo (mayor cantidad de produccion, en promedio, para el factor variable asociado)
+	C: Maximo tecnico. PT de mas alta produccion con fp utilizados.
+
+Etapas de produccion: Si el Pmgfv es mayor al PMefv, el PMefv crece; Si el Pmgfv es inferior al PMefv, el PMefv disminuye.
+1) Redimientos crecientes. PT crece rapido, Pmgfv PMefv crecen. Ineficiente por capital ocioso. Cada trabajador suma mas al PT que el anterior.
+2) Rendimientos decrecientes. PT crece lento, Pmgfv PMefv decrecen. Eficiente.
+3) Rendimientos negativos. PT decrece, Pmgfv negativa, PMefv tiende a 0. Ineficiente. Cada trabajador que se suma resta a la PT.
+![[Pasted image 20260917114708.png]]
+
+
+# Costos
+
+Teoria de los costos: Asignar un valor monetario a las cantidades producidas. El objetivo es determinar tecnicas de produccion (forma de combinar fp) mas eficiente desde la vista economica. Es una version monetaria de la teoria de la produccion.
+
+Eficiencia economica: El mas eficiente es el que cuesta menos.
+![[Pasted image 20260917115349.png]]
+
+Costos:
+- Implicancia de los costos de una empresa: Salidas de dinero de una empresa al producir un bien. Sea
+- Factores de la curva de costos: 
