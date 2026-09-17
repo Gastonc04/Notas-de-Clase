@@ -467,5 +467,41 @@ Eficiencia economica: El mas eficiente es el que cuesta menos.
 ![[Pasted image 20260917115349.png]]
 
 Costos:
-- Implicancia de los costos de una empresa: Salidas de dinero de una empresa al producir un bien. Sea
-- Factores de la curva de costos: 
+- Implicancia de los costos de una empresa: Salidas de dinero de una empresa al producir un bien. Sea pagar fp, insumos, costo oportunidad (renunciar a otro bien a producir).
+- Factores de la curva de costos: Influye precio de los fp, y la funcion de produccion del bien.
+	- El precio de los fp (capital, tierra y trabajo): Si aumentan, los costos tambien.
+	- Tecnologia: Si mejora la tecnologia, necesita menos recursos, los costos bajarian
+
+Costo y gasto:
+- Costo: Precio a pagar por una cosa (incluidas las erogaciones). Compensacion del sacrificio para obtener el producto. Siempre de PRODUCCION (sueldo de operarios, materia prima, depreciacion de maquinas, etc). SE INVIERTE Y SE RECUPERA.
+- Gasto: Pago para cubrir una necesidad sin esperar que genere ingresos posteriores. Siempre de ADMINISTRACION (sueldos de personal administrativo, marketing, muebles). SE CONSUME Y SE VA.
+
+Costo Total (CT): Totalidad de pagos que se realizan por los fp en el proceso productivo. Se incrementa cuando aumenta el PT.
+
+![[Pasted image 20260917121148.png]]
+
+- Costo Variable Total (CVT): Se modifican con el nivel de produccion. Dependen del volumen de productos que se elaboran. Si no se produce nada es 0.
+  ![[Pasted image 20260917121347.png]]
+  
+- Costo Fijo Total (CFT): Independiente al nivel de produccion. Si se produce 0, igual hay que pagarlos (Alquileres, sueldos, seguros, etc). Dependen del tamaño de la planta (solo se elimina cerrando la planta)
+  ![[Pasted image 20260917121550.png]]
+
+![[Pasted image 20260917122144.png]]
+CVT: son los ufv trabajadores x $5
+
+Tipos de Costos Unitarios:
+- Costo Medio (CMe): Costo de producir en promedio cada producto. COSTO POR UNIDAD PRODUCIDA.
+  ![[Pasted image 20260917122412.png]]
+  
+- Costo Variable Medio (CVMe): Costo variable por cada producto. COSTO VARIABLE POR UNIDAD PRODUCIDA.
+  
+  ![[Pasted image 20260917122450.png]]
+  
+- Costo Fijo Medio (CFMe): COSTO FIJO POR UNIDAD PRODUCIDA.
+  
+  ![[Pasted image 20260917122507.png]]
+  
+- Costo Marginal (CMg): Costo de producir una unidad mas. Indica si es conveniente aumentar la produccion.
+  
+  ![[Pasted image 20260917122519.png]]
+  
