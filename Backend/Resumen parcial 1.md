@@ -265,9 +265,14 @@ De esta manera se publican y consumen artefactos en estos repositorios.
 
 Java es tipado. Toda variable tiene tipo y casi siempre se especifica.
 
-Tipos: int, float, double, char, String (Es el unico que es una clase), boolean.
+Tipos: int, float, double, char, String (Es el unico que es una clase), boolean. 
 
 Declaracion de variables: tipo nombre memoria;
+
+Perdida de precision: Cuando la memoria que ocupa la variable de la izquierda es menor a la memoria que ocupa la variable de la derecha. Lanza error y se debe hacer Casting que es anteponer el nombre del tipo a la derecha.
+![[Pasted image 20260918141016.png]]
+
+var: palabra reservada, infiere el tipo segun asignacion.
 
 # Apunte 5 - POO
 
