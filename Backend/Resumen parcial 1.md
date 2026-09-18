@@ -337,16 +337,41 @@ Operadores de incremento y decremento mas resumido:
 
 ![[Pasted image 20260918151831.png]]
 
-Estructuras repetitivas:
-- for:
+Estructuras repetitivas: 0-M, 1-N (esto es, si se evalua la primera condicion y es falsa, no se ejecuta)
+- for (0-N)
 	![[Pasted image 20260918155407.png]]
 	
-- 
+- while (0-N)
+	![[Pasted image 20260918160059.png]]
+	
+- do while (1-N). Ejecuta y despues repite
+	![[Pasted image 20260918160251.png]]
+
+Elementos de control: break, continue.
+
+Lectura de archivos con Scanner:
+datos.txt
+![[Pasted image 20260918160541.png]]
+
+codigo:
+![[Pasted image 20260918160516.png]]
+
+Novedades de java:
+- switch ->
+	![[Pasted image 20260918160727.png]]
+	
+- bloques de texto """
+	![[Pasted image 20260918160755.png]]
 
 # Apunte 5 - POO
 
+Clase: entidad con atributos (variables) y metodos (funciones).
+Objeto: instancia de una clase.
 
-Definic
+Defincion de clase: class Nombre {}
+![[Pasted image 20260918164317.png]]
+
+
 
 # Apunte 6 - Vectores y Manejo de Excepciones
 
