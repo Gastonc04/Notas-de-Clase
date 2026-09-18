@@ -335,8 +335,13 @@ Operaciones de conteo/acumulacion de forma resumida:
 Operadores de incremento y decremento mas resumido:
 ![[Pasted image 20260918150830.png]]
 
+![[Pasted image 20260918151831.png]]
 
-
+Estructuras repetitivas:
+- for:
+	![[Pasted image 20260918155407.png]]
+	
+- 
 
 # Apunte 5 - POO
 
