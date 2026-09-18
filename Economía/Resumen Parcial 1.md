@@ -549,4 +549,15 @@ Beneficios:
   
   ![[Pasted image 20260917145657.png]]
 
-- Beneficio Unitario Medio (BMe): Ganancia
+- Beneficio Unitario Medio (BMe): Ganancia percibida por cada producto que se vende.
+  ![[Pasted image 20260917145748.png]]
+
+- Beneficio Unitario Marginal (BMg): Ganancia que percibe al vender una unidad mas.
+  
+  ![[Pasted image 20260917145911.png]]
+  ![[Pasted image 20260917145922.png]]
+
+Empresa en competencia perfecta: Es precio-aceptante, Curva de demanda perfectamente elastica.
+![[Pasted image 20260917150658.png]]
+
+![[Pasted image 20260917150913.png]]
