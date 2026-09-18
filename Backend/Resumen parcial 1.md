@@ -309,6 +309,32 @@ else {
 	// Instrucciones
 }
 ```
+![[Pasted image 20260918144415.png]]
+
+![[Pasted image 20260918144835.png]]
+
+Condicionales:
+- Condicional simple:
+	![[Pasted image 20260918144956.png]]
+	
+- Condicional multiple:
+	![[Pasted image 20260918145652.png]]
+	(OBLIGATORIO los break)
+	
+- Operador ternario:
+	![[Pasted image 20260918150008.png]]
+	
+	De forma mas legible (solo en operaciones simples):
+	![[Pasted image 20260918150036.png]]
+	![[Pasted image 20260918150043.png]]
+
+Operaciones de conteo/acumulacion de forma resumida:
+![[Pasted image 20260918150521.png]]
+![[Pasted image 20260918150534.png]]
+
+Operadores de incremento y decremento mas resumido:
+![[Pasted image 20260918150830.png]]
+
 
 
 
