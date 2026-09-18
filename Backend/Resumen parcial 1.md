@@ -440,11 +440,16 @@ Matrices: Arreglo en tablas.
 Manejo de excepciones: Los errores se representan como objeto. Clase Throwable.
 ![[Pasted image 20260918195514.png]]
 
-Checked obliga a tratarlo, Unchecked 
+Checked obliga a tratarlo, Unchecked no obliga.
 
 Error: hardware/sistema
-Exception: 
+RuntimeException y Error: Finalizan el programa pero sin problema de compilacion.
 
+Tratamiento:
+![[Pasted image 20260918195939.png]]
+
+si hay una excepcion en try, la trata catch.
+finally se ejecuta siempre, haya o no haya excepcion.
 
 
 # Apunte 7 - Testing
