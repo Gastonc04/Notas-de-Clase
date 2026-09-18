@@ -424,7 +424,28 @@ Se compara con @Value de Lombok
 
 # Apunte 6 - Vectores y Manejo de Excepciones
 
-Definic
+Arreglo: Del mismo tipo, en indices. Vector.
+Declaracion (base): 
+![[Pasted image 20260918194215.png|117]]
+Creacion del objeto:
+![[Pasted image 20260918194435.png]]
+
+![[Pasted image 20260918194954.png]]
+
+Matrices: Arreglo en tablas.
+![[Pasted image 20260918194909.png]]
+
+![[Pasted image 20260918195004.png]]
+
+Manejo de excepciones: Los errores se representan como objeto. Clase Throwable.
+![[Pasted image 20260918195514.png]]
+
+Checked obliga a tratarlo, Unchecked 
+
+Error: hardware/sistema
+Exception: 
+
+
 
 # Apunte 7 - Testing
 
