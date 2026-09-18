@@ -263,33 +263,37 @@ De esta manera se publican y consumen artefactos en estos repositorios.
 
 # Apunte 4 - Sintaxis
 
-Definic
+Java es tipado. Toda variable tiene tipo y casi siempre se especifica.
+
+Tipos: int, float, double, char, String (Es el unico que es una clase), boolean.
+
+Declaracion de variables: tipo nombre memoria;
 
 # Apunte 5 - POO
 
 Definic
 
-# Apunte 6 - POO
+# Apunte 6 - Vectores y Manejo de Excepciones
 
 Definic
 
-# Apunte 7 - POO
+# Apunte 7 - Testing
 
 Definic
 
-# Apunte 8 - POO
+# Apunte 8 - Herencia y Polimorfismo en Java
 
 Definic
 
-# Apunte 9 - POO
+# Apunte 9 - Iteradores y Colecciones en Java
 
 Definic
 
-# Apunte 10 - POO
+# Apunte 10 - Programación funcional y API de Streams
 
 Definic
 
-# Apunte 11 - POO
+# Apunte 11 - Procesamiento de Archivos CSV
 
 Definic
 
