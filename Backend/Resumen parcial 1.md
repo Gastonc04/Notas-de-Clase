@@ -371,6 +371,36 @@ Objeto: instancia de una clase.
 Defincion de clase: class Nombre {}
 ![[Pasted image 20260918164317.png]]
 
+Principio de ocultamiento: Que no sea acceda directamente a lo atributos, sino que por los metodos.
+Se garantiza con modificadores de acceso.
+
+Modificadores de acceso:
+- public: Accesible por sus propios metodos y por metodos de otras clases.
+- private: Accesible solo por sus propios metodos.
+- protected: Accesible solo por sus clases derivadas (por HERENCIA), y clases del mismo paquete.
+- default: ESTADO. Accesible solo por clases de su mismo paquete. No es una palabra reservada.
+
+Constructor: metodo qie inicializa atributos de un objeto. Cuando se usa new.
+
+Los constructores y metodos de una clase pueden ser sobrecargados: Puedenn definirse varias versiones del mismo metodo. Se distinguen por la forma de su lista de parametros (en cantidad, tipo o ambas).
+![[Pasted image 20260918165520.png]]
+
+Otros metodos:
+![[Pasted image 20260918165954.png]]
+
+Referenciacion:
+![[Pasted image 20260918170102.png]]
+
+Invocacion de metodos: objeto.metodo()
+
+Metodos de acceso:
+- Para consultar atributos de objetos de una clase: getAtributo()
+- Para modificacion atributos de objetos de una clase: setAtributo()
+![[Pasted image 20260918170907.png]]
+
+Todo objeto hereda de Object.
+
+
 
 
 # Apunte 6 - Vectores y Manejo de Excepciones
