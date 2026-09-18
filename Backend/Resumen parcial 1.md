@@ -272,9 +272,48 @@ Declaracion de variables: tipo nombre memoria;
 Perdida de precision: Cuando la memoria que ocupa la variable de la izquierda es menor a la memoria que ocupa la variable de la derecha. Lanza error y se debe hacer Casting que es anteponer el nombre del tipo a la derecha.
 ![[Pasted image 20260918141016.png]]
 
-var: palabra reservada, infiere el tipo segun asignacion.
+var: palabra reservada, infiere el tipo segun asignacion. Variables locales. Es inmutable el tipo. NO USAR en: declarar parametros de metodos, variables de instancia, variables de clase. USAR cuando el tipo es obvio.
+
+Mostrar en pantalla:
+``` java
+String a = "Buen dia";
+System.out.print("Mensaje: " + a);
+```
+
+Entrada de datos por teclado:
+``` java
+import java.util.scanner;
+
+public class App {
+	public static void main(String[] args)
+		// Crea instancia a Scanner
+		Scanner miEscaner = new Scanner(System.in);
+		
+		int a;
+		
+		System.out.print("Ingrese a: ")
+		a = miEscaner.nextInt();
+		
+}
+
+```
+![[Pasted image 20260918143050.png]]
+![[Pasted image 20260918143100.png]]
+
+Estructuras condicionales:
+``` java
+if (expresion logica) {
+	// Instrucciones
+}
+else {
+	// Instrucciones
+}
+```
+
+
 
 # Apunte 5 - POO
+
 
 Definic
 
