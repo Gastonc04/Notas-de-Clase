@@ -407,8 +407,18 @@ toString() es uno de ellos. Si no se redefine, muestra el nombre de lam clase de
 Lombok: Biblioteca que reduce el codigo repetitivo que escribo en las clases. Por ejemplo getters, setters, redefinir toString() equals().
 Boileplate: ese codigo repetitivo.
 
-Con solo poner encima de la clase: @Getter, @Setter, @AllArgsConstructor, @ToString, etc se completa automaticamente. No queda escrito en el codigo .java pero si en el .class
+Con solo poner encima de la clase: @Getter, @Setter, @AllArgsConstructor, @ToString, @EqualsAndHashCode, @Data (genera getters, setters, toString, equalsAndHashCode, RequiredArgsConstructor -> tomando solo los final y @NonNull), etc se completa automaticamente. No queda escrito en el codigo .java pero si en el .class
 
+Se usa instalando la dependencia y luego el plugin en el IDE. Luego import lombok.Getter por ejemplo.
+
+Tambien se puede hacer solo por atributo.
+
+
+record: nueva estructura de clase inmutable, pensada a data carriers (objetos portadores de datos)
+![[Pasted image 20260918180904.png]]
+Se compara con @Value de Lombok
+![[Pasted image 20260918180948.png]]
+![[Pasted image 20260918181035.png]]
 
 
 
