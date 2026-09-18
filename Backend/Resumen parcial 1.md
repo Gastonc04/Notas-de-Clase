@@ -399,6 +399,15 @@ Metodos de acceso:
 ![[Pasted image 20260918170907.png]]
 
 Todo objeto hereda de Object.
+toString() es uno de ellos. Si no se redefine, muestra el nombre de lam clase del objeto y la direccion de memoria.
+![[Pasted image 20260918171400.png]]
+![[Pasted image 20260918171405.png]]
+![[Pasted image 20260918171417.png]]
+
+Lombok: Biblioteca que reduce el codigo repetitivo que escribo en las clases. Por ejemplo getters, setters, redefinir toString() equals().
+Boileplate: ese codigo repetitivo.
+
+Con solo poner encima de la clase: @Getter, @Setter, @AllArgsConstructor, @ToString, etc se completa automaticamente. No queda escrito en el codigo .java pero si en el .class
 
 
 
