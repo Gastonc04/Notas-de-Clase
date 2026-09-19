@@ -455,8 +455,12 @@ finally se ejecuta siempre, haya o no haya excepcion.
 try con recursos: Garantiza que se cierre un archivo y no se haga con finally.
 ![[Pasted image 20260918212938.png]]
 
+Throws avisando excepciones posibles:
+![[Pasted image 20260918214644.png]]
 
-
+Crear objeto Throwable:
+![[Pasted image 20260918214810.png]]
+![[Pasted image 20260918214846.png]]
 
 # Apunte 7 - Testing
 
