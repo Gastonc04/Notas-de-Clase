@@ -450,6 +450,12 @@ Tratamiento:
 
 si hay una excepcion en try, la trata catch.
 finally se ejecuta siempre, haya o no haya excepcion.
+![[Pasted image 20260918212130.png]]
+
+try con recursos: Garantiza que se cierre un archivo y no se haga con finally.
+![[Pasted image 20260918212938.png]]
+
+
 
 
 # Apunte 7 - Testing
