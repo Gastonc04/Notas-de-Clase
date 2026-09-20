@@ -12,7 +12,7 @@ El software no es un modelo fisico, es intangible.
 
 Analisis y Diseño en el PUD (Proceso Unificado de Desarrollo)
 
-![](https://docs.google.com/docs-images-rt/ALKuztbat0W7UCyCx_xhUM6vGxun4xysbkfOQjqVp09h6zuBwsP1XyE2DhtwZs_pHIzW-WVsmL1HU9V23YkGdYCp2l0RvWtog-4at4y-b8mzOMzOgVfWkV2CF3epbstqs_LFnPPl-ksLhWMJSZ-7aIVbgXatUdkyhLWFhn-c7ZAEXg=s2048)
+IMG
 
 Refinamiento: Mas nivel de detalle, menos abstracto.
 
@@ -44,3 +44,4 @@ NOTA: Usuario cautivo - Cuando el cliente no tiene alternativa de usar otra apli
 Diseño de Formas de Entrada / Salida: Describe como se ingresa la informacion y como se presentan las salidas del mismo. Un sistema que se entera en el momento lo que está ocurriendo es un Sistema En Linea. En cambio cuando se entera despues, es un Sistema En Lote / Batch.
 
 Diseño de Procedimientos Manuales: Describe como se integra el software al sistema de negocio.
+

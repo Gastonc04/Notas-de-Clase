@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Resumen parcial 1.md",
+                "file": "Diseño de Sistemas/Resumen Parcial 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen parcial 1"
+              "title": "Resumen Parcial 2"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -200,6 +199,7 @@
   },
   "active": "f2e710f1620082bc",
   "lastOpenFiles": [
+    "Backend/Resumen parcial 1.md",
     "IMAGENES/Pasted image 20260918214846.png",
     "IMAGENES/Pasted image 20260918214810.png",
     "IMAGENES/Pasted image 20260918214644.png",
@@ -210,12 +210,10 @@
     "IMAGENES/Pasted image 20260918195004.png",
     "IMAGENES/Pasted image 20260918194954.png",
     "IMAGENES/Pasted image 20260918194909.png",
-    "IMAGENES/Pasted image 20260918194435.png",
     "Economía/Resumen Parcial 1.md",
     "Economía/27-8.md",
     "Economía/20-8.md",
     "Backend/15-9.md",
-    "Backend/Resumen parcial 1.md",
     "IMAGENES",
     "Analisis Numérico/Resumen Parcial 1.md",
     "Analisis Numérico/2-9 (Virtual).md",
