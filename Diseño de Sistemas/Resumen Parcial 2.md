@@ -76,13 +76,26 @@ Cada unidad funcional es un servicio que se representa como subsitema/componente
 
 Descomposicion por subdominios:
 - CORE: Distingue la organizacion de la competencia
-- SOPORTE: 
-- GENERICOS: 
+- SOPORTE: Contribuyen al core.
+- GENERICOS: Comunes a otros negocios, pueden ser externalizados.
 
-### Vista de funcionalidad
+### Vista de diseño global
+Los servicios provistos por terceros, externos, aparecen en esta vista y luego en la vista de despliegue, en la vista de diseño detallada no aparecen.
 
+![[Pasted image 20260923175436.png]]
 
-
+- Uso de API y/o API REST: en el glosario de la Cátedra en la UV hay definiciones respeto de estos recursos, la convención acordada en la cátedra es que cuando se necesita explicitar que se trabaja con comunicaciones asincrónicas optamos por API REST. Si no se explicita se puede usar API. Si bien la tendencia actual es hacia el uso de API REST.
+- Vamos a trabajar microservicios para el backend con un único front, por ahora, micro front ends lo trabajaremos más adelante.
+- Las interfaces de comunicación de los servicios que se comunican con el API Gateway o con el Backend for Frontend será por medio de API Rest. Esto privilegia las comunicaciones asincrónicas.
+- Las interfaces de comunicación en los gateways son requeridas y la parte de front y los servicios tanto internos como externos tienen las interfaces provistas.
+- Para la comunicación entre servicios internos del producto consideramos que los servicios de dominio genéricos son los que ofrecen, es decir tienen las interfaces provistas y analizamos quienes necesitan y ubicamos las interfaces requeridas.
+- Para la comunicación con los servicios externos en la API Gateway Pública se ubican las interfaces requeridas, una por cada servicio externo, por ejemplo Servidor de Correo, Google Maps, MercadoPago, etc.; que en este caso quedarán sin interfaz provista. A su vez cada uno de los servicios que interaccionan con los servicios externos (que por lo general son servicios de domino genérico se integrarán también a la API Gateway Pública.
+- Las interfaces salen del servicio, que está encapsulado, no desde los componentes que hay dentro del servicio.
+- La comunicación entre servicios de dominios core y dominios de soporte por intercambio de información o actualización de datos en las respectivas bases de datos no los vamos a modelar por ahora, se asume que la comunicación es por la API Rest de cada servicio que se conecta al API Gateway. Esto es una simplificación, de lo contrario deberíamos incorporar otros patrones (SAGA, CQRD, Messaging) y sería muy complejo.
+- Respecto a la forma de estructurar cada servicio, recordar que la modularización de los servicios
+debe mantener la cohesión lo más alta posible. En ese sentido se recomienda que los componentes
+que manejan lógica de conversión o que dependen de sistemas externos no se ubiquen dentro de
+los servicios de tipo core.
 ### Vista de despliegue
 
 ### Vista de despliegue
