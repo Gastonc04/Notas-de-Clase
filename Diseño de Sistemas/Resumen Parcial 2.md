@@ -44,3 +44,26 @@ NOTA: Usuario cautivo - Cuando el cliente no tiene alternativa de usar otra apli
 Diseño de Formas de Entrada / Salida: Describe como se ingresa la informacion y como se presentan las salidas del mismo. Un sistema que se entera en el momento lo que está ocurriendo es un Sistema En Linea. En cambio cuando se entera despues, es un Sistema En Lote / Batch.
 
 Diseño de Procedimientos Manuales: Describe como se integra el software al sistema de negocio.
+
+# Practico
+
+Identificacion de RF (en los CU) y RNF (en listado) significativos para la arquitectura
+
+Criterios:
+- CU que resuelva ABMC (+ Representativo -> + Compleja del dominio)
+- Tx (Generalmente 1)
+- Reportes (Generalmente 1)
+- Estadisticas
+- Manejo de sesion
+- Automaticos
+- Masivos
+
+Elegir cuales y JUSTIFICAR en una tabla.
+
+Elegir un framework (Patrones arquitectonicos)
+- N - Tier
+- Messaging
+- Publish - Suscribe
+- Broker
+- Process Coordinator
+
