@@ -45,14 +45,49 @@ Diseño de Formas de Entrada / Salida: Describe como se ingresa la informacion y
 
 Diseño de Procedimientos Manuales: Describe como se integra el software al sistema de negocio.
 
+---
 # Practico
 
-### Monolitica
+## Monolitica
+
+### Vista de funcionalidad
+
+Menor cantidad de CU que contemplen los RNF. Justificar.
+
+### Vista de diseño
 
 ![[Pasted image 20260923165032.png]]
 
 Componente de presentación para cada tecnología por subsistema.
 ![[Pasted image 20260923165215.png]]
+
+### Vista de despliegue
+La cantidad de servidores para hacer el despliegue será la que esté explicitada, si no está explicitado, entonces se recomiendan las buenas prácticas de separar las capas de software en niveles de hardware diferentes.
+
+Para los nodos que representan servidores externos se espera que se identifiquen los componentes que se deducen explícitamente del enunciado, de lo contrario los servidores externos podrán quedar sin componentes.
+
+Despliegue vinculado al RNF de Base de datos espejada (Mirroring). Si hubiera un RNF vinculado a espejar bases de datos, eso se ve reflejado en la Vista de Despliegue y la base de datos espejo debe estar en otro servidor diferente del que está alojada la base de datos y estar vinculada con el servidor de aplicaciones.
+
+![[Pasted image 20260923172652.png]]
+
+## Micrservicios
+
+Cada unidad funcional es un servicio que se representa como subsitema/componente
+
+Descomposicion por subdominios:
+- CORE: Distingue la organizacion de la competencia
+- SOPORTE: 
+- GENERICOS: 
+
+### Vista de funcionalidad
+
+
+
+### Vista de despliegue
+
+### Vista de despliegue
+
+
 
 Identificacion de RF (en los CU) y RNF (en listado) significativos para la arquitectura
 
