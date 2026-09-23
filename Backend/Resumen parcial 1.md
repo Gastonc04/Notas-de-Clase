@@ -1,4 +1,4 @@
-## Apunte 1 - Introducción
+# Apunte 1 - Introducción
 
 Stack (pila): Pila de capas que se comunican con la anterior y la siguiente. Tambien se puede decir que es la pila de tecnologias que vamos a utilizar.
 
@@ -176,7 +176,7 @@ Visual Studio Code
     
 - Desventajas: No es un IDE completo, es un editor extendido. La experiencia de desarrollo Java puede no ser tan fluida.
 
-## Apunte 2 - Java
+# Apunte 2 - Java
 
 Caracteristicas de Java:
 - Lenguaje de alto nivel
@@ -220,7 +220,7 @@ La JVM esta compuesta por:
 
 NOTA: El bytecode es universal, la JVM es el traductor local que lo entiende en cada maquina donde se ejecute.
 
-## Apunte 3 - Maven
+# Apunte 3 - Maven
 
 Definicion: Es un framework de automatizacion de ciclo de vida de un proyecto centralmente Java.
 
@@ -253,18 +253,236 @@ Repositorios: pueden ser privados o locales (carpeta .m2).
 - Remoto: Adicional a las central.
 - Local o Cache: Cuando se descarga una dependencia por primera vez. En .m2. Favorece a la reutilizacion de dependencias para no volver a descargarlas.
 
-Con Fat JAR o Uber JAR puedo generar el .jar con todas las dependencias para evitar errores de ejecucion. maven-assembly-plugin dentro de <build> <plugins>. Esto ademas de contemplar todas las dependencias, contiene todas las clases compiladas y todos los recursos.
+Con Fat JAR o Uber JAR puedo generar el .jar con todas las dependencias para evitar errores de ejecucion. maven-assembly-plugin dentro de build y plugins. Esto ademas de contemplar todas las dependencias, contiene todas las clases compiladas y todos los recursos.
 El mvn package no incluye las dependencias al empaquetar.
 El .jar es solo un archivo .zip con clases y un manifiesto.
-
-![[Pasted image 20260915193649.png]]
 
 Con mvn deploy comparto el .jar con otros equipos y proyectos. DESPLIEGUE del proyecto a un repositorio remoto para descargarlo como dependencia.
 De esta manera se publican y consumen artefactos en estos repositorios.
 
----
 
-  
+# Apunte 4 - Sintaxis
+
+Java es tipado. Toda variable tiene tipo y casi siempre se especifica.
+
+Tipos: int, float, double, char, String (Es el unico que es una clase), boolean. 
+
+Declaracion de variables: tipo nombre memoria;
+
+Perdida de precision: Cuando la memoria que ocupa la variable de la izquierda es menor a la memoria que ocupa la variable de la derecha. Lanza error y se debe hacer Casting que es anteponer el nombre del tipo a la derecha.
+![[Pasted image 20260918141016.png]]
+
+var: palabra reservada, infiere el tipo segun asignacion. Variables locales. Es inmutable el tipo. NO USAR en: declarar parametros de metodos, variables de instancia, variables de clase. USAR cuando el tipo es obvio.
+
+Mostrar en pantalla:
+``` java
+String a = "Buen dia";
+System.out.print("Mensaje: " + a);
+```
+
+Entrada de datos por teclado:
+``` java
+import java.util.scanner;
+
+public class App {
+	public static void main(String[] args)
+		// Crea instancia a Scanner
+		Scanner miEscaner = new Scanner(System.in);
+		
+		int a;
+		
+		System.out.print("Ingrese a: ")
+		a = miEscaner.nextInt();
+		
+}
+
+```
+![[Pasted image 20260918143050.png]]
+![[Pasted image 20260918143100.png]]
+
+Estructuras condicionales:
+``` java
+if (expresion logica) {
+	// Instrucciones
+}
+else {
+	// Instrucciones
+}
+```
+![[Pasted image 20260918144415.png]]
+
+![[Pasted image 20260918144835.png]]
+
+Condicionales:
+- Condicional simple:
+	![[Pasted image 20260918144956.png]]
+	
+- Condicional multiple:
+	![[Pasted image 20260918145652.png]]
+	(OBLIGATORIO los break)
+	
+- Operador ternario:
+	![[Pasted image 20260918150008.png]]
+	
+	De forma mas legible (solo en operaciones simples):
+	![[Pasted image 20260918150036.png]]
+	![[Pasted image 20260918150043.png]]
+
+Operaciones de conteo/acumulacion de forma resumida:
+![[Pasted image 20260918150521.png]]
+![[Pasted image 20260918150534.png]]
+
+Operadores de incremento y decremento mas resumido:
+![[Pasted image 20260918150830.png]]
+
+![[Pasted image 20260918151831.png]]
+
+Estructuras repetitivas: 0-M, 1-N (esto es, si se evalua la primera condicion y es falsa, no se ejecuta)
+- for (0-N)
+	![[Pasted image 20260918155407.png]]
+	
+- while (0-N)
+	![[Pasted image 20260918160059.png]]
+	
+- do while (1-N). Ejecuta y despues repite
+	![[Pasted image 20260918160251.png]]
+
+Elementos de control: break, continue.
+
+Lectura de archivos con Scanner:
+datos.txt
+![[Pasted image 20260918160541.png]]
+
+codigo:
+![[Pasted image 20260918160516.png]]
+
+Novedades de java:
+- switch ->
+	![[Pasted image 20260918160727.png]]
+	
+- bloques de texto """
+	![[Pasted image 20260918160755.png]]
+
+# Apunte 5 - POO
+
+Clase: entidad con atributos (variables) y metodos (funciones).
+Objeto: instancia de una clase.
+
+Defincion de clase: class Nombre {}
+![[Pasted image 20260918164317.png]]
+
+Principio de ocultamiento: Que no sea acceda directamente a lo atributos, sino que por los metodos.
+Se garantiza con modificadores de acceso.
+
+Modificadores de acceso:
+- public: Accesible por sus propios metodos y por metodos de otras clases.
+- private: Accesible solo por sus propios metodos.
+- protected: Accesible solo por sus clases derivadas (por HERENCIA), y clases del mismo paquete.
+- default: ESTADO. Accesible solo por clases de su mismo paquete. No es una palabra reservada.
+
+Constructor: metodo qie inicializa atributos de un objeto. Cuando se usa new.
+
+Los constructores y metodos de una clase pueden ser sobrecargados: Puedenn definirse varias versiones del mismo metodo. Se distinguen por la forma de su lista de parametros (en cantidad, tipo o ambas).
+![[Pasted image 20260918165520.png]]
+
+Otros metodos:
+![[Pasted image 20260918165954.png]]
+
+Referenciacion:
+![[Pasted image 20260918170102.png]]
+
+Invocacion de metodos: objeto.metodo()
+
+Metodos de acceso:
+- Para consultar atributos de objetos de una clase: getAtributo()
+- Para modificacion atributos de objetos de una clase: setAtributo()
+![[Pasted image 20260918170907.png]]
+
+Todo objeto hereda de Object.
+toString() es uno de ellos. Si no se redefine, muestra el nombre de lam clase del objeto y la direccion de memoria.
+![[Pasted image 20260918171400.png]]
+![[Pasted image 20260918171405.png]]
+![[Pasted image 20260918171417.png]]
+
+Lombok: Biblioteca que reduce el codigo repetitivo que escribo en las clases. Por ejemplo getters, setters, redefinir toString() equals().
+Boileplate: ese codigo repetitivo.
+
+Con solo poner encima de la clase: @Getter, @Setter, @AllArgsConstructor, @ToString, @EqualsAndHashCode, @Data (genera getters, setters, toString, equalsAndHashCode, RequiredArgsConstructor -> tomando solo los final y @NonNull), etc se completa automaticamente. No queda escrito en el codigo .java pero si en el .class
+
+Se usa instalando la dependencia y luego el plugin en el IDE. Luego import lombok.Getter por ejemplo.
+
+Tambien se puede hacer solo por atributo.
+
+
+record: nueva estructura de clase inmutable, pensada a data carriers (objetos portadores de datos)
+![[Pasted image 20260918180904.png]]
+Se compara con @Value de Lombok
+![[Pasted image 20260918180948.png]]
+![[Pasted image 20260918181035.png]]
+
+
+
+# Apunte 6 - Vectores y Manejo de Excepciones
+
+Arreglo: Del mismo tipo, en indices. Vector.
+Declaracion (base): 
+![[Pasted image 20260918194215.png|117]]
+Creacion del objeto:
+![[Pasted image 20260918194435.png]]
+
+![[Pasted image 20260918194954.png]]
+
+Matrices: Arreglo en tablas.
+![[Pasted image 20260918194909.png]]
+
+![[Pasted image 20260918195004.png]]
+
+Manejo de excepciones: Los errores se representan como objeto. Clase Throwable.
+![[Pasted image 20260918195514.png]]
+
+Checked obliga a tratarlo, Unchecked no obliga.
+
+Error: hardware/sistema
+RuntimeException y Error: Finalizan el programa pero sin problema de compilacion.
+
+Tratamiento:
+![[Pasted image 20260918195939.png]]
+
+si hay una excepcion en try, la trata catch.
+finally se ejecuta siempre, haya o no haya excepcion.
+![[Pasted image 20260918212130.png]]
+
+try con recursos: Garantiza que se cierre un archivo y no se haga con finally.
+![[Pasted image 20260918212938.png]]
+
+Throws avisando excepciones posibles:
+![[Pasted image 20260918214644.png]]
+
+Crear objeto Throwable:
+![[Pasted image 20260918214810.png]]
+![[Pasted image 20260918214846.png]]
+
+# Apunte 7 - Testing
+
+Definic
+
+# Apunte 8 - Herencia y Polimorfismo en Java
+
+Definic
+
+# Apunte 9 - Iteradores y Colecciones en Java
+
+Definic
+
+# Apunte 10 - Programación funcional y API de Streams
+
+Definic
+
+# Apunte 11 - Procesamiento de Archivos CSV
+
+Definic
+
+---
 
 Preguntas:  
 
