@@ -47,6 +47,13 @@ Diseño de Procedimientos Manuales: Describe como se integra el software al sist
 
 # Practico
 
+### Monolitica
+
+![[Pasted image 20260923165032.png]]
+
+Componente de presentación para cada tecnología por subsistema.
+![[Pasted image 20260923165215.png]]
+
 Identificacion de RF (en los CU) y RNF (en listado) significativos para la arquitectura
 
 Criterios:
