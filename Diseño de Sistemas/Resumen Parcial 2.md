@@ -92,10 +92,13 @@ Los servicios provistos por terceros, externos, aparecen en esta vista y luego e
 - Para la comunicación con los servicios externos en la API Gateway Pública se ubican las interfaces requeridas, una por cada servicio externo, por ejemplo Servidor de Correo, Google Maps, MercadoPago, etc.; que en este caso quedarán sin interfaz provista. A su vez cada uno de los servicios que interaccionan con los servicios externos (que por lo general son servicios de domino genérico se integrarán también a la API Gateway Pública.
 - Las interfaces salen del servicio, que está encapsulado, no desde los componentes que hay dentro del servicio.
 - La comunicación entre servicios de dominios core y dominios de soporte por intercambio de información o actualización de datos en las respectivas bases de datos no los vamos a modelar por ahora, se asume que la comunicación es por la API Rest de cada servicio que se conecta al API Gateway. Esto es una simplificación, de lo contrario deberíamos incorporar otros patrones (SAGA, CQRD, Messaging) y sería muy complejo.
-- Respecto a la forma de estructurar cada servicio, recordar que la modularización de los servicios
-debe mantener la cohesión lo más alta posible. En ese sentido se recomienda que los componentes
-que manejan lógica de conversión o que dependen de sistemas externos no se ubiquen dentro de
-los servicios de tipo core.
+- Respecto a la forma de estructurar cada servicio, recordar que la modularización de los servicios debe mantener la cohesión lo más alta posible. En ese sentido se recomienda que los componentes que manejan lógica de conversión o que dependen de sistemas externos no se ubiquen dentro de los servicios de tipo core.
+- Base de Datos y persistencia: Vamos a trabajar con el patrón de una base de datos por servicio y cada servicio tiene se componente de persistencia que depende de los componentes que tiene que persistir y de la base de datos.
+![[Pasted image 20260923182754.png]]
+
+
+
+
 ### Vista de despliegue
 
 ### Vista de despliegue
