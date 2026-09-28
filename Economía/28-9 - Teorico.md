@@ -33,4 +33,14 @@ La balanza de pagos es positiva cuando se ingresa dinero al pais y negativa cuan
 
 DEG: derechos especiales de giro, moneda creada por el fondo monetario.
 
-Tipo de cambio
+Tipo de cambio:
+- Efectivo (aranceles)
+- Nominal (sugerido por el banco central de la republica argentina)
+- Real (tiene un componente economico)
+- Paralelo
+- Oficial (sugerido por el banco de la nacion)
+
+### Renta nacional
+Todos los bienes y servicios producidos con los residentes de un pais independientemente de donde esten.
+
+Saldo de remesas.
