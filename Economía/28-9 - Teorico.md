@@ -44,3 +44,6 @@ Tipo de cambio:
 Todos los bienes y servicios producidos con los residentes de un pais independientemente de donde esten.
 
 Saldo de remesas.
+
+PBI: se registran todos los bienes y servicios producidos en el pais producidos durante un año.
+Produccion-Insumos
