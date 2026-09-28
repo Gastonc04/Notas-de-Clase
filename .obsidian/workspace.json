@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b07af8e2fa63e96",
+        "id": "ea4f76e81cd04869",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4d58bf82a7d831",
+            "id": "c18261a5641a6272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de Sistemas/Resumen Parcial 2.md",
+                "file": "Comunicacion de Datos/28-9 - Practico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen Parcial 2"
+              "title": "28-9 - Practico"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -198,33 +197,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f4d58bf82a7d831",
+  "active": "c18261a5641a6272",
   "lastOpenFiles": [
+    "Diseño de Sistemas/Resumen Parcial 2.md",
+    "Comunicacion de Datos/28-9 - Practico.md",
+    "Comunicacion de Datos",
     "IMAGENES/Pasted image 20260923182754.png",
     "IMAGENES/Pasted image 20260923175436.png",
     "IMAGENES/Pasted image 20260923172652.png",
     "IMAGENES/Pasted image 20260923165215.png",
     "IMAGENES/Pasted image 20260923165032.png",
-    "Diseño de Sistemas/Resumen Parcial 2.md",
-    "conflict-files-obsidian-git.md",
+    "Backend/Resumen parcial 1.md",
     "IMAGENES/Pasted image 20260918214846.png",
     "IMAGENES/Pasted image 20260918214810.png",
     "IMAGENES/Pasted image 20260918214644.png",
     "IMAGENES/Pasted image 20260918212938.png",
     "IMAGENES/Pasted image 20260918212130.png",
-    "IMAGENES/Pasted image 20260918195939.png",
     "Economía/Resumen Parcial 1.md",
-    "Backend/Resumen parcial 1.md",
-    "Backend/15-9.md",
-    "Backend/Resumen.md",
-    "15-9.md",
-    "Analisis Numérico/Resumen Parcial 1.md",
-    "IMAGENES",
-    "Diseño de Sistemas/Resumen Parcial 1.md",
-    "Analisis Numérico/2-9 (Virtual).md",
-    "Analisis Numérico",
     "Economía/27-8.md",
     "Economía/20-8.md",
+    "Backend/15-9.md",
+    "IMAGENES",
+    "Analisis Numérico/Resumen Parcial 1.md",
+    "Analisis Numérico/2-9 (Virtual).md",
+    "Diseño de Sistemas/Resumen Parcial 1.md",
+    "Analisis Numérico",
     "Economía.md",
     "Economía",
     "Diseño de Sistemas",
