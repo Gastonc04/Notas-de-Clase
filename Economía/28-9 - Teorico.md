@@ -20,9 +20,17 @@ Balanza de pagos:
 	- Cuenta de rentas secundarias
 - Cuenta capital (Son todas las transacciones de capital para realizar inversiones en otros paises)
 	- Inversiones
-	- Activos inmateriales
-	- Activos no producidos
-- Cuenta financiera
+	- Activos inmateriales (invenciones, patentes)
+	- Activos no producidos (tierra)
+- Cuenta financiera (saber si un pais presta dinero al mundo o recibiendo, creditos y prestamos)
+	- Inversiones directas (inversiones de empresas para obtener beneficio a largo plazo)
+	- inversiones de carteras (compra y venta de titulos, bonos y acciones)
+	- Otras inversiones (prestamos y depositos en otros paises)
+	- Derivados financieros (transacciones de instrumentos financieros mas complejos)
+	- Reservas (divisa extranjera que un pais tiene)
 
 La balanza de pagos es positiva cuando se ingresa dinero al pais y negativa cuando sale del pais.
 
+DEG: derechos especiales de giro, moneda creada por el fondo monetario.
+
+Tipo de cambio
