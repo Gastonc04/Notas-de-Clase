@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -199,6 +200,12 @@
   },
   "active": "740e4b9190355ac2",
   "lastOpenFiles": [
+    "IMAGENES/IMG_9784.heic",
+    "IMAGENES/IMG_9785.heic",
+    "IMAGENES/IMG_9782.heic",
+    "IMAGENES/IMG_9780 2.heic",
+    "IMAGENES/IMG_9780 1.heic",
+    "IMAGENES/IMG_9780.heic",
     "Guía Auditoría Inalámbrica WPA y WPA2.md",
     "Diseño de Sistemas/29-9 Practico.md",
     "Economía/28-9 - Teorico.md",
@@ -228,7 +235,6 @@
     "Economía.md",
     "Economía",
     "Diseño de Sistemas",
-    "Backend",
     "Backend.md",
     "Diseño de Sistemas.md"
   ]
