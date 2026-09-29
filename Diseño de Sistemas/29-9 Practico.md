@@ -14,9 +14,31 @@ Principios:
 LEER 1ER CAPITULO DE GAUS, PARA PARCIAL 3 SI O SI
 
 1) Hay que interpretar la consigna.
-Por ejemplo en consultorio dice en la consigna: "...comportamiento variable..."
+Por ejemplo en consultorio dice en la consigna: "...comportamiento variable...", esto es un indicio.
 
-2) Lectura de CU asociado
+2) Lectura de CU asociado.
+Caso de uso 3. Identificar cuando hay estado y comportamiento variable.
+Paso 18 cumple.
+
+3) Identificacion de las clases de analisis afectadas.
+Contexto: Turno
+Clases afectadas: CambioEstado, Estado, MotivoCancelacion (creo)
+
+4) Identificar del fragmento de la comunicacion afectada (Secuencia o Comunicacion).
+
+---
+
+ANOTACION EN CARPETA
+
+Hago para la clase estado una asociacion con cada de uno de sus estados (en la maquina de estados) como clases hijas, y agrego las clases afectadas (como MotivoCancelacion y CambioEstado).
+
+Definir el tipo de dato de cada atributo en terminos representativos: String, array, date, integer, date time.
+P. ej -> nombre: string
+
+Poner operaciones del contexto en Estado y sus clases hijas. De esta manera existe cancelar() 
+en todas las clases Estado pudiendo redefinirse con polimorfismo.
+
+---
 
 
 ### Strategy
