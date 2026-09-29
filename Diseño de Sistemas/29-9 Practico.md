@@ -38,6 +38,21 @@ P. ej -> nombre: string
 Poner operaciones del contexto en Estado y sus clases hijas. De esta manera existe cancelar() 
 en todas las clases Estado pudiendo redefinirse con polimorfismo.
 
+Metodo de enganche: es el metodo que tomamos a partir del cual redefinimos el proceso. En este caso es cancelarTurno().
+
+El pseudocodigo no es contar el diagrama de secuencia.
+
+A partir del metodo de enganche, ponemos todas las signaturas de los metodos en la clase GestorAusenciaProfesional.
+
+CONSIDERACIONES:
+Estado es una CLASE ABSTRACTA, ya que no hay instancias de el. NO PONER :Estado en un diagrama de secuencia en un patron STATE.
+metodos buscaEstadoCancelado() NO PONER, ya que se va a encargar la clase abstracta de estado.
+Se ELIMINA la dependencia del Gestor al Estado, no existe mas. NO PONER.
+
+Los parametros del metodo cancelar(fechaHora: DateTime, motivo: MotivoCancelacion) se ponen como minima en todas las clases que redefinen el metodo.
+
+
+
 ---
 
 
