@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economía/5-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +178,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,8 +199,9 @@
   },
   "active": "6f3e217d8a0c45b9",
   "lastOpenFiles": [
-    "Comunicacion de Datos/5-10.md",
+    "2026-10-05.md",
     "Economía/5-10.md",
+    "Comunicacion de Datos/5-10.md",
     "Comunicacion de Datos/28-9.md",
     "Guía Auditoría Inalámbrica WPA y WPA2.md",
     "Comunicacion de Datos/Resumen Parcial 2.md",
