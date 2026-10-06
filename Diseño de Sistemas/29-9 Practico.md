@@ -51,9 +51,9 @@ Se ELIMINA la dependencia del Gestor al Estado, no existe mas. NO PONER.
 
 Los parametros del metodo cancelar(fechaHora: DateTime, motivo: MotivoCancelacion) se ponen como minima en todas las clases que redefinen el metodo.
 
-![[IMG_9785.heic]]
+![[IMG_9785.jpeg]]
 
-![[IMG_9784.heic]]
+![[IMG_9784.jpeg]]
 
 En la clase abstracta el metodo puede ser concreto o abstracto.
 El metodo concreto cancelar(...) lo voy a solamente redefinir en aquellas clases que puedan pasar al estado Cancelado.
@@ -65,9 +65,3 @@ Tips (Pseudocodigo):
 - Explicar que hay una clase abstracta, explicar las clases concretas y la forma de implementacion de los metodos.
 - Explicar como se ve el polimorfismo.
 - Explicar como y donde esta la delegacion. Y a su vez decir que principios de diseño aplica (Solid, etc).
-
-
----
-
-
-### Strategy
