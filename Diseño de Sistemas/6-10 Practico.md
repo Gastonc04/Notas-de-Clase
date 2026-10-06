@@ -20,5 +20,6 @@ Ej. que tienen Strategy: Crustacio cascarudo, Frigorifico, Gestion de eventos.
 ## Observer
 Cuando se necesita que objetos se enteren que cambio el estado de un sujeto. Cambia algo en la situacion del sujeto, atributos, valores.
 
+Explicamos quien es el sujeto concreto y los observadores concretos, cual es el metodo de actualizacion, parametros, retornos, etc. Cual es el metodo del patron. Donde se ve el polimorfismo (En este caso en el metodo de actualizacion).
 
 Ej. con Observer: Frigorifico, Gestion de eventos.
