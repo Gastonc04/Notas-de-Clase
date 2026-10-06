@@ -1,7 +1,7 @@
 
 Para el estudio de la realidad usamos modelos matematicos, es decir herramientas de calculo numerico cuyos resultados cotejan con la realidad.
 
-#MinimosCuadrados
+## MinimosCuadrados
 
 Pares ordenados de Datos NO exactos
 
@@ -89,7 +89,7 @@ para una funcion de 3 terminos c1, c2, c3:
 *RESUMEN*
 ![[Pasted image 20260909165848.png]]
 
-#EcuacionesNoLineales 
+## EcuacionesNoLineales 
 Ecuacion con una variable elevada a una potencia distinta de 1 o que incluye funciones trascendentes (trigonometricas, algebraicas o polinomios de grado mayor a 1)
 
 Se busca encontrar las raices, asi que se van a aproximar a ellas. SUCESIVAMENTE.
@@ -191,7 +191,7 @@ Aislamiento: establecer intervalo lo mas pequeño posible, tal que contenga una 
 ![[Pasted image 20260911174948.png]]
 
 
-#EcuacionesDiferenciales
+## EcuacionesDiferenciales
 
 Ecuacion que contiene derivadas de una o mas variables dependientes respecto a una o mas variables independientes
 

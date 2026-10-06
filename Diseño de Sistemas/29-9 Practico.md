@@ -40,7 +40,7 @@ en todas las clases Estado pudiendo redefinirse con polimorfismo.
 
 Metodo de enganche: es el metodo que tomamos a partir del cual redefinimos el proceso. En este caso es cancelarTurno().
 
-El pseudocodigo no es contar el diagrama de secuencia.
+El pseudocodigo no es contar el diagrama de secuencia. ERROR GRAVE.
 
 A partir del metodo de enganche, ponemos todas las signaturas de los metodos en la clase GestorAusenciaProfesional.
 

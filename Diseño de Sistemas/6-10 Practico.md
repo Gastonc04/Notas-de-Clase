@@ -11,4 +11,14 @@ Si se crea la estrategia en el paso 8, tengo los tributos necesarios. Si lo hago
 
 En el 95% de los casos, la logica que ejecuta el Gestor se la delega a la Estrategia. Prestar especial atencion a los parametros y a los retornos.
 
-El metodo de 
+El metodo de calculo que cumple con la interfaz metodoCalculo, devuelve una matriz de String 
+
+![[IMG_0128.jpeg]]
+
+Ej. que tienen Strategy: Crustacio cascarudo, Frigorifico, Gestion de eventos.
+
+## Observer
+Cuando se necesita que objetos se enteren que cambio el estado de un sujeto. Cambia algo en la situacion del sujeto, atributos, valores.
+
+
+Ej. con Observer: Frigorifico, Gestion de eventos.

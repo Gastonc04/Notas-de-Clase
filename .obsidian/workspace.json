@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9abe1dd8cf525c46",
+        "id": "831ae979d75b3917",
         "type": "tabs",
         "children": [
           {
-            "id": "6f3e217d8a0c45b9",
+            "id": "9ec25b628659f73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,14 +197,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f3e217d8a0c45b9",
+  "active": "9ec25b628659f73b",
   "lastOpenFiles": [
     "Diseño de Sistemas/29-9 Practico.md",
+    "Analisis Numérico/Resumen Parcial 1.md",
+    "Diseño de Sistemas/Resumen Parcial 1.md",
+    "Diseño de Sistemas/6-10 Practico.md",
+    "IMAGENES/IMG_0128.jpeg",
     "IMAGENES/IMG_9785.jpeg",
     "IMAGENES/IMG_9784 3.jpeg",
     "IMAGENES/IMG_9784 2.jpeg",
     "IMAGENES/IMG_9784.jpeg",
-    "Diseño de Sistemas/6-10 Practico.md",
     "Economía/5-10.md",
     "2026-10-05.md",
     "Comunicacion de Datos/5-10.md",
@@ -226,15 +229,12 @@
     "IMAGENES/Pasted image 20260923165215.png",
     "IMAGENES/Pasted image 20260923165032.png",
     "Backend/Resumen parcial 1.md",
-    "IMAGENES/Pasted image 20260918214846.png",
     "Economía/Resumen Parcial 1.md",
     "Economía/27-8.md",
     "Economía/20-8.md",
     "Backend/15-9.md",
     "IMAGENES",
-    "Analisis Numérico/Resumen Parcial 1.md",
     "Analisis Numérico/2-9 (Virtual).md",
-    "Diseño de Sistemas/Resumen Parcial 1.md",
     "Analisis Numérico",
     "Economía.md",
     "Economía",
