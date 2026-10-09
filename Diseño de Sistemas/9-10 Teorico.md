@@ -8,3 +8,4 @@ Lee solo objetos "object", no sabe su estructura interna ni de que clases son.
 
 ### Patron Adapter
 
+Convertir la interfaz de una clase en otra que el cliente espera.
