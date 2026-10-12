@@ -32,7 +32,11 @@ Transformaciones de señales en tiempo continuo:
 
 - Escalamiento:
   ![[Pasted image 20261011154146.png]]
-  
+  ![[Pasted image 20261012184831.png]]
   
 - Reflexion:
   
+  ![[Pasted image 20261012184906.png]]
+  ![[Pasted image 20261012184929.png]]
+  
+Procedimiento: Desplazamiento, Escalamiento, Reflexion.
