@@ -39,4 +39,7 @@ Transformaciones de señales en tiempo continuo:
   ![[Pasted image 20261012184906.png]]
   ![[Pasted image 20261012184929.png]]
   
-Procedimiento: Desplazamiento, Escalamiento, Reflexion.
+Procedimiento: Desplazamiento, Reflexion, Escalar.
+
+Operaciones entre señales: Suma, resta y multiplicacion.
+
