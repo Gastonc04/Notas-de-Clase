@@ -43,3 +43,9 @@ Procedimiento: Desplazamiento, Reflexion, Escalar.
 
 Operaciones entre señales: Suma, resta y multiplicacion.
 
+Escalon unitario μ(t)
+![[Pasted image 20261014182034.png|381]]
+
+Transformaciones en Escalon unitario
+![[Pasted image 20261014182106.png]]
+![[Pasted image 20261014182353.png]]
