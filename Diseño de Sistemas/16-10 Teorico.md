@@ -37,4 +37,10 @@ Servicio de persistencia: Almacenar (Desmaterializar) y recuperar (Materializar)
 
 Pasos para desarrollar un framework de persistencia:
 - Correspondencia
-- Identidada 
+- Identidad de objeto
+- Conversor de base de datos
+- Materializacion y desmaterializacion
+- Cache
+- Estado de transaccion de los objetos
+- Operaciones de transaccion
+- Materializacion perezosa
