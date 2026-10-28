@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Resumen parcial 1.md",
+                "file": "Analisis Numérico/Resumen Parcial 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen parcial 1"
+              "title": "Resumen Parcial 2"
             }
           }
         ]
@@ -197,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ec25b628659f73b",
+  "active": "2622b9e77633641c",
   "lastOpenFiles": [
-    "Diseño de Sistemas/27-10 Practico.md",
     "Backend/Resumen parcial 1.md",
+    "Diseño de Sistemas/27-10 Practico.md",
     "Diseño de Sistemas/16-10 Teorico.md",
     "Analisis Numérico/Resumen Parcial 2.md",
     "IMAGENES/Pasted image 20261014182353.png",
