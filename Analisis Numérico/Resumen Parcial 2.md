@@ -61,4 +61,7 @@ Representar una señal periodica...
 ![[Pasted image 20261028145259.png]]
 Prestar atencion a que no se superpongan para pasar al dominio x(t)
 
+
+Enventanado: 
+
 Responder UNICAMENTE lo que se le pregunta, en practico aplicar propiedades.
