@@ -58,4 +58,7 @@ Tener en cuenta en el elemento neutro, x(0).u(t) siendo x(0) la altura de la se√
 VER BIEN DEFINICION DE SERIE DE FOURIER, PARA QUE SE USA
 Representar una se√±al periodica...
 
+![[Pasted image 20261028145259.png]]
+Prestar atencion a que no se superpongan para pasar al dominio x(t)
+
 Responder UNICAMENTE lo que se le pregunta, en practico aplicar propiedades.
