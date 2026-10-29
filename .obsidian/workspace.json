@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/29-10.md",
+                "file": "Economía/proyecto_de_inversi_n_econom_a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29-10"
+              "title": "proyecto_de_inversi_n_econom_a"
             }
           }
         ]
@@ -199,8 +199,11 @@
   },
   "active": "9ec25b628659f73b",
   "lastOpenFiles": [
-    "Analisis Numérico/29-10 Practico.md",
     "Economía/29-10.md",
+    "Economía/Proyecto de inversion.md",
+    "Economía/proyecto_de_inversi_n_econom_a.md",
+    "proyecto_de_inversi_n_econom_a.md",
+    "Analisis Numérico/29-10 Practico.md",
     "Analisis Numérico/Resumen Parcial 2.md",
     "IMAGENES/Pasted image 20261028145259.png",
     "Backend/Resumen parcial 1.md",
@@ -240,10 +243,7 @@
     "Economía/Resumen Parcial 1.md",
     "Economía/27-8.md",
     "Economía/20-8.md",
-    "Backend/15-9.md",
     "IMAGENES",
-    "Analisis Numérico/2-9 (Virtual).md",
-    "Analisis Numérico",
-    "Economía.md"
+    "Analisis Numérico"
   ]
 }
