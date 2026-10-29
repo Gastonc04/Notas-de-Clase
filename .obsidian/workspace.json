@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis Numérico/Resumen Parcial 2.md",
+                "file": "Analisis Numérico/29-10 Practico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen Parcial 2"
+              "title": "29-10 Practico"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -199,11 +200,12 @@
   },
   "active": "9ec25b628659f73b",
   "lastOpenFiles": [
+    "Analisis Numérico/Resumen Parcial 2.md",
+    "Analisis Numérico/29-10 Practico.md",
     "IMAGENES/Pasted image 20261028145259.png",
     "Backend/Resumen parcial 1.md",
     "Diseño de Sistemas/27-10 Practico.md",
     "Diseño de Sistemas/16-10 Teorico.md",
-    "Analisis Numérico/Resumen Parcial 2.md",
     "IMAGENES/Pasted image 20261014182353.png",
     "IMAGENES/Pasted image 20261014182106.png",
     "IMAGENES/Pasted image 20261014182034.png",
@@ -213,7 +215,6 @@
     "IMAGENES/Pasted image 20261011154146.png",
     "IMAGENES/Pasted image 20261011154055.png",
     "IMAGENES/Pasted image 20261011154024.png",
-    "IMAGENES/Pasted image 20261011152918.png",
     "Diseño de Sistemas/9-10 Teorico.md",
     "Analisis Numérico/Resumen Parcial 1.md",
     "Diseño de Sistemas/6-10 Practico.md",
