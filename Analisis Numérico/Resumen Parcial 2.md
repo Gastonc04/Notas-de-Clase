@@ -50,7 +50,32 @@ Transformaciones en Escalon unitario
 ![[Pasted image 20261014182106.png]]
 ![[Pasted image 20261014182353.png]]
 
+### Impulso unitario y desplazado
 
+![[Pasted image 20261029204059.png|323]]
+
+Desplazado
+![[Pasted image 20261029204504.png|324]]
+
+Para ser un impulso unitario tiene como CONDICION FUNDAMENTAL: Area=1, es decir la integral del impulso desde -inf a +inf debe ser 1.
+
+![[Pasted image 20261029202844.png|369]]
+
+Tambien se tiene el impuslo unitario desplazado delta(t-t0).
+
+Representacion incremental del impulso
+![[Pasted image 20261029203727.png|320]]![[Pasted image 20261029203816.png|333]]
+
+### Escalon unitario y desplazado
+
+![[Pasted image 20261029204024.png|307]]
+DISCONTINUA EN t=0
+
+Desplazado
+![[Pasted image 20261029204227.png|307]]
+
+Incremental
+![[Pasted image 20261029204419.png|349]]
 
 
 
