@@ -22,3 +22,4 @@ y(t) = X(t) * h(t)
 y(t) = integral x(tao)h(t-tao)dtao
 
 Convolucion con impulsos: Si la señal son impulsos, resolver por propiedad del impulso con elemento neutro de la convolucion.
+
