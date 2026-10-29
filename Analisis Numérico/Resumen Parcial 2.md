@@ -51,7 +51,12 @@ Transformaciones en Escalon unitario
 ![[Pasted image 20261014182353.png]]
 
 
+
+
+
+
 ---
+
 Para demostrar la integral de convolucion voy a escudriñamiento
 Tener en cuenta en el elemento neutro, x(0).u(t) siendo x(0) la altura de la señal y u(t) el impulso, la multiplicacion es un impulso estirado, en criollo.
 
