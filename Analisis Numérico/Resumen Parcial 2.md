@@ -83,6 +83,8 @@ IMPORTANTE: t es asi
 e elevado a -t es asi, si es t esta invertido
 ![[Pasted image 20261030121921.png|436]]
 
+Si se hace sumatoria de impulsos obtengo un tren de impulsos.
+
 
 
 
