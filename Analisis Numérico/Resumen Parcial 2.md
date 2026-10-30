@@ -85,8 +85,13 @@ e elevado a -t es asi, si es t esta invertido
 
 Si se hace sumatoria de impulsos obtengo un tren de impulsos.
 
+El escalon unitario es la integral de la funcion impulso unitario
+![[Pasted image 20261030132254.png|215]]
 
+El escalon unitario es discontinuo en t=0, por lo que se hace el limite con el escalon unitario del incremento para cuando el incremento tiende a 0.
+![[Pasted image 20261030132520.png]]
 
+![[Pasted image 20261030134147.png]]
 
 
 
