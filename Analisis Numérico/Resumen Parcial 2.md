@@ -116,6 +116,8 @@ Sistema identidad: y(t)=x(t)
 Una señal cualquiera en tiempo continuo puede ser descompuesta en una combinacion lineal de señales de impulsos desplazados en el tiempo y con altura x(kΔ).Δ
 ![[Pasted image 20261030165216.png|299]]
 
+DESARROLLO EN HOJA
+
 
 
 
