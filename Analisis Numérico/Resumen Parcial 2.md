@@ -96,7 +96,8 @@ El escalon unitario es discontinuo en t=0, por lo que se hace el limite con el e
 
 ## Propiedades de los sistemas. SLIT. Convolucion
 
-Propiedades de los sistemas:
+### Propiedades de los sistemas
+
 - Sistemas con/sin memoria: Si la salida de un sistema en un tiempo t depende de la entrada en ese mismo instante de tiempo t, es sin memoria.
 - Invertibilidad: Si a la salida de nuestro sistema y(t) le aplicamos otro sistema (el inverso), este arroja por salida a nuestra entrada original x(t). Debe producir salidas diferentes con entradas diferentes(Invertible). 
   ![[Pasted image 20261030152258.png]]
@@ -110,7 +111,10 @@ Propiedades de los sistemas:
 
 Sistema identidad: y(t)=x(t)
 
-Sistemas Lineales Invariantes en el Tiempo: SLIT
+### Sistemas Lineales Invariantes en el Tiempo: SLIT
+
+Una señal cualquiera en tiempo continuo puede ser descompuesta en una combinacion lineal de señales de impulsos desplazados en el tiempo y con altura x(kΔ).Δ
+![[Pasted image 20261030165216.png|299]]
 
 
 
