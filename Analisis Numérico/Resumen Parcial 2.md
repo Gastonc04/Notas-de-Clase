@@ -77,6 +77,15 @@ Desplazado
 Incremental
 ![[Pasted image 20261029204419.png|349]]
 
+IMPORTANTE: t es asi
+![[Pasted image 20261030121705.png|565]]
+
+e elevado a -t es asi, si es t esta invertido
+![[Pasted image 20261030121921.png|436]]
+
+
+
+
 
 
 
