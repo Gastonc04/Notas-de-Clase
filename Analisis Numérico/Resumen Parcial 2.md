@@ -100,12 +100,21 @@ Propiedades de los sistemas:
 - Sistemas con/sin memoria: Si la salida de un sistema en un tiempo t depende de la entrada en ese mismo instante de tiempo t, es sin memoria.
 - Invertibilidad: Si a la salida de nuestro sistema y(t) le aplicamos otro sistema (el inverso), este arroja por salida a nuestra entrada original x(t). Debe producir salidas diferentes con entradas diferentes(Invertible). 
   ![[Pasted image 20261030152258.png]]
-- Causalidad: Los valores de la salida en un tiempo t dependen de los valores de entrada en el mismo tiempo t y/o anteriores. Es con memoria.
+- Causalidad: Los valores de la salida en un tiempo t dependen de los valores de entrada en el mismo tiempo t y/o anteriores. Es con memoria. Se le llama no anticipativo por que no anticipa los valores futuros de la entrada.
   ![[Pasted image 20261030152455.png|334]]
 - Estabilidad: La entrada es acotada para cualquier tiempo t, la salida tambien lo es para todo tiempo t. No puede volverse infinita la salida si la entrada fue finita.
 - *Invarianza en el tiempo:* Cuando un desplazamiento en el tiempo de entrada produce el mismo desplazamiento en el tiempo de salida.
   ![[Pasted image 20261030154233.png|318]]
 - *Linealidad:* Si conocemos 2 entradas de un sistema y sus respectivas salidas, se debe cumplir el Principio de Superposicion (La respuesta a una combinacion lineal de entradas sera la misma combinacion lineal aplicada a las salidas)
+  ![[Pasted image 20261030155035.png]]
+
+Sistema identidad: y(t)=x(t)
+
+Sistemas Lineales Invariantes en el Tiempo: SLIT
+
+
+
+
 
 ---
 
