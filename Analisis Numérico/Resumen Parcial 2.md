@@ -118,6 +118,13 @@ Una señal cualquiera en tiempo continuo puede ser descompuesta en una combinaci
 
 DESARROLLO EN HOJA
 
+### Convolucion
+
+y(t) = x(t) * h(t)
+
+Si la entrada en un SLIT es el impulso unitario, la salida es la respuesta al impulso h(t). El sistema esta completamente caracterizado por h(t).
+
+![[Pasted image 20261030180810.png]]
 
 
 
