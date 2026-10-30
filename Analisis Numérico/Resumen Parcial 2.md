@@ -126,7 +126,20 @@ Si la entrada en un SLIT es el impulso unitario, la salida es la respuesta al im
 
 ![[Pasted image 20261030180810.png]]
 
+DESARROLLO EN HOJA
 
+Propiedades de la convolucion:
+- Conmutativa
+  ![[Pasted image 20261030194215.png]]
+  
+- Asociativa
+  ![[Pasted image 20261030194338.png]]
+  
+- Distributiva respecto a la suma o resta
+  ![[Pasted image 20261030194430.png]]
+
+
+Elemento neutro: impulso de t.
 
 
 ---
