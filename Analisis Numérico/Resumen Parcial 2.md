@@ -132,6 +132,8 @@ Propiedades de la convolucion:
 - Conmutativa
   ![[Pasted image 20261030194215.png]]
   
+  Conviene desplazar la mas facil en la practica, es decir dejar en la (t-tao) la que sea mas simple.
+  
 - Asociativa
   ![[Pasted image 20261030194338.png]]
   
@@ -140,6 +142,7 @@ Propiedades de la convolucion:
 
 
 Elemento neutro: impulso de t.
+
 
 
 ---
