@@ -16,3 +16,29 @@ A costo de factores: PBIcf= Produccion-Insumos
 PBIpm a precio de mercado: Produccion - Insumos + IIN
 IIN: Impuestos directos netos = Imp. Inde. de venta - Impuestos indirectos de compra
 
+PBI:
+- Real: Mide la produccion eliminando la inflacion, precios ctes.
+- Nominal: Mide la produccion a precios corrientes. 
+- Per Capita: Mide el promedio de ingresos de un pais dividido la cantidad de habitantes. 
+- Deflactor de PBI: Variacion de precios
+
+### Producto neto
+![[Pasted image 20261101200912.png]]
+
+Producto nacional: Actividad de un pais.
+Producto Bruto Nacional PBN = PBI + Saldo de remesas externas
+Producto Neto Nacional PNN: PBI - Depreciacion + SRE = PNI +- Saldo de remesas extranjeras
+Renta nacional = Producto Nacional Neto a costo de factores = PNNcf
+
+El PBI no es un indicador de calidad de vida.
+
+Indicadores de desarrollo que incluyen calidad de vida:
+- IBES
+- PBI verde: PBI - Recursos naturales deteriorados
+- IDH Indice de desarrollo humano
+- IDHD Indice de desarrollo humano ajustado por desigualdad
+- Huella ecologica, Huella hidrica, Huella de carbono
+
+### Ingreso
+
+Sector privado
