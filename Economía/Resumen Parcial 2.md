@@ -3,6 +3,9 @@ Valor monetario de ingresos percibidos por los FPP en una economia en un periodo
 
 Contabilidad nacional: Registro de transacciones en la economia de un pais. Es una suma de transacciones. Se compone de PBI y Renta Nacional.
 
+![[Pasted image 20261101220958.png]]
+![[Pasted image 20261101221007.png]]
+
 Producto Bruto: Valor total de la produccion de bienes y servicios de un pais en un periodo. Incluye todos los bienes (finales) y servicios posibles.
 ![[Pasted image 20261101194808.png]]
 
@@ -56,12 +59,39 @@ Ingreso de sector publico: Tributos (contribuciones al estado)
 
 Tributos:
 - Impuestos: Con ello se financia la infraestructura, salud, educacion, defensa, seguridad social.
-- Finalidad (del impuesto):
-	- Fiscales: Necesidad publica de manera indirecta. Servicios del estado
-	- Extrafiscales: manera directa.
-	- Mixtos
+	- Finalidad (del impuesto):
+		- Fiscales: Necesidad publica de manera indirecta. Servicios del estado
+		- Extrafiscales: manera directa.
+		- Mixtos
+	- Criterios de clasificacion de impuestos:
+		- Sobre lo que recae la obligacion
+		- Progresividad
+		- Grave renta o consumo
+		- Forma de pago
+		- Persona
+- Contribuciones a la seguridad social: aportes, jubilacion.
+- Tasas: Servicios publicos
 
-Criterios de clasificacion de impuestos:
-- Sobre lo que recae la obligacion
-- Progresividad
-- 
+Ingreso interno
+Ingreso Bruto Interno
+	YBIcf=Sum(salario+interes+alquiler+beneficios)
+	YBIpm=Sum(salario+interes+alquiler+beneficios+IIN)
+
+Ingreso Neto Interno
+YNIcf=YBI-Depreciaciones
+YNIpm=YBI-Depreciaciones+IIN
+
+Distribucion del ingreso: El estado interviene a traves de:
+- sistema impositivo
+- Gastos y transferencias
+- Directamente en el control de precios, estableciendo max y min
+
+Ingreso Bruto Nacional
+YBNcf= YBI+SRE
+YBNpm=YBI+SRE+IIN
+
+Ingreso Neto Nacional:
+YNNcf=YNI+SRE
+YNNpm=YNI+SRE+IIN
+
+Indice de gini y curva de lorenz
