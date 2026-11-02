@@ -56,4 +56,12 @@ Ingreso de sector publico: Tributos (contribuciones al estado)
 
 Tributos:
 - Impuestos: Con ello se financia la infraestructura, salud, educacion, defensa, seguridad social.
-- Finalidad (Fiscal o extrafiscal): 
+- Finalidad (del impuesto):
+	- Fiscales: Necesidad publica de manera indirecta. Servicios del estado
+	- Extrafiscales: manera directa.
+	- Mixtos
+
+Criterios de clasificacion de impuestos:
+- Sobre lo que recae la obligacion
+- Progresividad
+- 
