@@ -35,7 +35,8 @@
               "title": "29-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c735e27e329958f",
+  "active": "5b3bccb320c0bd26",
   "lastOpenFiles": [
-    "Economía/29-10.md",
     "Economía/Resumen Parcial 2.md",
+    "Economía/29-10.md",
     "IMAGENES/Pasted image 20261101221007.png",
     "IMAGENES/Pasted image 20261101220958.png",
     "IMAGENES/Pasted image 20261101200912.png",
