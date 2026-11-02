@@ -41,4 +41,19 @@ Indicadores de desarrollo que incluyen calidad de vida:
 
 ### Ingreso
 
-Sector privado
+Sector privado: depende de FPP, actividad, salario, alquiler, interes, beneficio
+Sector publico: ingresos genuinos (impuestos por ejemplo, clasificados en directos e indirectos)
+
+Ingreso de sector privado:
+Y total: cantidad de propiedades que posee + precio de servicios que presta
+Y personal: Sumatoria de las remuneraciones de los servicios de los FP
+Y disponible: Y personal - Impuestos directos
+
+* **Impuestos Directos:** Recaen **sobre las personas** (físicas o jurídicas), gravando directamente sus ingresos, rentas o patrimonio (por ejemplo, el Impuesto a las Ganancias). Te cobran por tener.
+* **Impuestos Indirectos:** Recaen **sobre el consumo y los bienes y servicios**, gravando el valor de las transacciones económicas (por ejemplo, el IVA). Te cobran por comprar.
+
+Ingreso de sector publico: Tributos (contribuciones al estado)
+
+Tributos:
+- Impuestos: Con ello se financia la infraestructura, salud, educacion, defensa, seguridad social.
+- Finalidad (Fiscal o extrafiscal): 
