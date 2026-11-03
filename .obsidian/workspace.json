@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economía/Resumen Parcial 2.md",
+                "file": "Diseño de Sistemas/Resumen Parcial 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen Parcial 2"
+              "title": "Resumen Parcial 3"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d19950577a5cc46",
@@ -200,8 +199,10 @@
   },
   "active": "5b3bccb320c0bd26",
   "lastOpenFiles": [
-    "Economía/29-10.md",
+    "Diseño de Sistemas/Resumen Parcial 2.md",
+    "Diseño de Sistemas/Resumen Parcial 3.md",
     "Economía/Resumen Parcial 2.md",
+    "Economía/29-10.md",
     "IMAGENES/Pasted image 20261101221007.png",
     "IMAGENES/Pasted image 20261101220958.png",
     "IMAGENES/Pasted image 20261101200912.png",
@@ -241,7 +242,6 @@
     "IMAGENES/IMG_9780 2.heic",
     "IMAGENES/IMG_9780 1.heic",
     "IMAGENES/IMG_9780.heic",
-    "Economía/28-9 - Teorico.md",
     "Comunicacion de Datos",
     "IMAGENES",
     "Analisis Numérico"
