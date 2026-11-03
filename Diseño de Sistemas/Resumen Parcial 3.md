@@ -30,3 +30,8 @@ Plantilla de definicion:
 - Ejemplo de Código
 - Usos conocidos
 - Patrones relacionados
+
+### Patrones de diseño que resuelven
+
+Encontrar los objetos apropiados: Implica descomponer sistema de objetos, Clases de analisis vs. Clases de diseño (clave para sistema mas flexible).
+Determinar granularidad: 
