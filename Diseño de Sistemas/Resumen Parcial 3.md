@@ -43,7 +43,21 @@ Patrones de diseño que resuelven:
   
   Cabe destacar que se vea diferenciar entre la herencia de clases y la herencia de interfaces. 
 - Un principio del diseño orientado a objetos reutilizable dice: programar para una interfaz, no para una implementación.
-
+  
+  Los clientes deben interactuar y referenciar objetos a través de sus interfaces o clases abstractas en lugar de sus clases concretas, evitando así que necesiten conocer la implementación específica de cada objeto.
+- Favorecen la reutilizacion:
+	- Reutilizacion de caja blanca (herencia - ES UN): Interior de clases padres visibles a subclases.
+		- Definición estática
+		- Sencilla de usar
+		- Es fácil modificar la implementación estáticamente no en tiempo de ejecución
+		- Rompe el encapsulamiento
+	- Reutilizacion de caja negra (composicion - TIENE UN): Detalles internos de objetos no son visibles.
+		- Definición dinámica
+		- Uso más complicado
+		- Es posible cambiar la implementación en tiempo de ejecución
+		- Requiere que se satisfaga cierta interfaz
+		- No rompe el encapsulamiento
+- 
 
 
 
