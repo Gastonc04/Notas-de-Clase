@@ -57,7 +57,23 @@ Patrones de diseño que resuelven:
 		- Es posible cambiar la implementación en tiempo de ejecución
 		- Requiere que se satisfaga cierta interfaz
 		- No rompe el encapsulamiento
-- 
+	
+	![[Pasted image 20261104020700.png]]
+	
+	Favorecer la composición de objetos frente a la herencia de clases.
+	
+	Delegacion: Un objeto receptor delega operaciones en su delegado. se obtiene software más flexible (dinámico y altamente parametrizado) pero más difícil de entender.
+	
+	![[Pasted image 20261104021512.png]]
+	
+	Interfaz: El cliente usa una interfaz como "puente" sin saber que objetos estan por detras implementados.
+	
+	![[Pasted image 20261104022721.png]]
+	
+	Finalmente: Delegacion + Interfaz
+	
+	![[Pasted image 20261104023317.png]]
+- Diseñ
 
 
 
