@@ -92,8 +92,14 @@ Causas comunes para rediseño:
 * **Añadir funcionalidad mediante la herencia**: *Bridge*, *Chain of Responsibility*, *Composite*, *Decorator*, *Observer*, *Strategy*
 * **Incapacidad de cambiar clases convenientemente**: *Adapter*, *Decorator*, *Visitor*
 
+Criterios:
+- Proposito: Creacion (de objetos), Estructural (composicion de clases u objetos), Comportamiento (interaccion y reparto de responsabilidad entre clases y objetos).
+- Ambito: Clase (relaciones de herencia, estaticas), Objeto (relaciones entre objetos, dinamicas).
 
+![[Pasted image 20261104143847.png]]
 
+Patrones de creacion:
+Abstraen el proceso de creacion de objetos. Si es de clases, usa herencia. Si es de objetos, delega la instanciacion a otro objeto. Flexible en qué, quién, cómo y cuando lo crea. Se encapsula que clases abstractas
 ## Diseño de experiencia de usuario
 
 
