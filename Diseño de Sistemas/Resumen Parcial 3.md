@@ -99,7 +99,11 @@ Criterios:
 ![[Pasted image 20261104143847.png]]
 
 Patrones de creacion:
-Abstraen el proceso de creacion de objetos. Si es de clases, usa herencia. Si es de objetos, delega la instanciacion a otro objeto. Flexible en qué, quién, cómo y cuando lo crea. Se encapsula que clases abstractas
+Abstraen el proceso de creacion de objetos. Si es de clases, usa herencia. Si es de objetos, delega la instanciacion a otro objeto. Flexible en qué, quién, cómo y cuando lo crea. Se encapsula que clases concretas usa el sistema y como se crean las instancias a esas clases.
+- Abstract Factory: Proporciona un contrato para la creación de familias de objetos relacionados o dependientes sin tener que especificar su clase concreta.
+- Builder: Armar objetos complejos paso a paso, separando las partes del armado del resultado final para poder crear distintas versiones del objeto usando el mismo proceso.
+- Factory Method: 
+
 ## Diseño de experiencia de usuario
 
 
