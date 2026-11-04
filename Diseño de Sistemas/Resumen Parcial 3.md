@@ -42,7 +42,7 @@ Patrones de diseño que resuelven:
 - Especificar implementacion de clases: la implementación de los objetos que han definido por sus clases, y a su vez, los patrones nos ayudan a definir estas clases participantes.
   
   Cabe destacar que se vea diferenciar entre la herencia de clases y la herencia de interfaces. 
-- 
+- Un principio del diseño orientado a objetos reutilizable dice: programar para una interfaz, no para una implementación.
 
 
 
