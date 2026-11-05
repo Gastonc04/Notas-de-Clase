@@ -1,3 +1,12 @@
+## Principios SOLID
+
+Principios y buenas practicas en el diseño y la programacion O.O. Permite la creacion de software de calidad, legible, reusable, escalable.
+
+SRP: Single Responsaibility. Responsabilidad unica. Enfocado a que una clase nunca debe tener mas de una razon para cambiar. Evitar clases que hagan cosas que deberian hacer otras.
+OCP: Open/Close. Abierto/cerrado. Las entidades de software deberian mantenerse abiertas a la extension y cerradas a la modificacion. Preparar el codigo para modificarlo mediante: Herencia, Polimorfismo, Composicion.
+L
+I
+D
 
 ## Patrones de diseño
 Son descripciones de clases y objetos relacionados que están particularizados para resolver un problema de diseño general en un determinado contexto.
