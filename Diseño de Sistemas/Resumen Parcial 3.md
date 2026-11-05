@@ -4,7 +4,7 @@ Principios y buenas practicas en el diseño y la programacion O.O. Permite la cr
 
 SRP: Single Responsaibility. Responsabilidad unica. Enfocado a que una clase nunca debe tener mas de una razon para cambiar. Evitar clases que hagan cosas que deberian hacer otras.
 OCP: Open/Close. Abierto/cerrado. Las entidades de software deberian mantenerse abiertas a la extension y cerradas a la modificacion. Preparar el codigo para modificarlo mediante: Herencia, Polimorfismo, Composicion.
-L
+LSP: Likov Substitution. Sustitucion de Liskov. Las funciones que usen referencias a clases base deben ser capaces de usar objetos de clases derivadas de estas sin saberlo. Imaginar una clase con herencia a varias subclases con un metodo redefinido en cada una de ellas.
 I
 D
 
