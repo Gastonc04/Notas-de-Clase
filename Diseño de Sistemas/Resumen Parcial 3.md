@@ -104,6 +104,14 @@ Abstraen el proceso de creacion de objetos. Si es de clases, usa herencia. Si es
 - Builder: Armar objetos complejos paso a paso, separando las partes del armado del resultado final para poder crear distintas versiones del objeto usando el mismo proceso.
 - Factory Method: 
 
+Enlace dinamico: asociación en tiempo de ejecución entre una petición a un objeto y una de sus operaciones.
+
+Polimorfismo: Permite sustituir objetos en tiempo de ejecución por otro con la misma interfaz.
+
+Interfaz: Es una colección de operaciones con un nombre, que se usa para especificar un servicio de una clase o de un componente. Sumatoria de todas las firmas de las operaciones.
+
+La idea clave es separar la especificación de funcionalidad (la interfaz) de su implementación por un clasificador (como una clase o subsistema).
+
 ## Diseño de experiencia de usuario
 
 
